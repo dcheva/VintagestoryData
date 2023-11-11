@@ -330,8 +330,8 @@
   "AntiAbuse": 0,
   "WorldConfig": {
     "Seed": null,
-    "SaveFileLocation": "C:\\Users\\Dmytro\\AppData\\Roaming\\VintagestoryData\\Saves\\dee village story.vcdbs",
-    "WorldName": "Dee Village Story",
+    "SaveFileLocation": "C:\\Users\\Dmytro\\AppData\\Roaming\\VintagestoryData\\Saves\\dee village valley.vcdbs",
+    "WorldName": "Dee Village Valley",
     "AllowCreativeMode": true,
     "PlayStyle": "exploration",
     "PlayStyleLangCode": "preset-exploration",
