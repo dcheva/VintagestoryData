@@ -27,6 +27,20 @@
       "Ctrl": false,
       "Alt": false,
       "Shift": false
+    },
+    "togglefullscreen": {
+      "KeyCode": 18,
+      "SecondKeyCode": null,
+      "Ctrl": false,
+      "Alt": false,
+      "Shift": false
+    },
+    "screenshot": {
+      "KeyCode": 19,
+      "SecondKeyCode": null,
+      "Ctrl": false,
+      "Alt": false,
+      "Shift": false
     }
   },
   "dialogPositions": {},
@@ -45,8 +59,8 @@
     "masterserverUrl": "https://masterserver.vintagestory.at/api/v1/servers/",
     "modDbUrl": "https://mods.vintagestory.at/",
     "audioDevice": null,
-    "playeruid" : "", 
-    "playername" : "",
+    "playeruid": "",
+    "playername": "",
     "lastSkinSelection": "baseskin:skin9,eyecolor:phthalo-blue,underwear:leotard,voicetype:tuba,voicepitch:medium,hairbase:mediumlength-bangs,hairextra:elaboratestickbun,facialexpression:serious,mustache:mst-line20-seagull,beard:brd-box01-chincurtain,haircolor:wintergreendream",
     "currentHandbookCategoryCode": "guide"
   },
@@ -143,7 +157,8 @@
     "hasGameServer": false,
     "showMinimapHud": true,
     "chatdialogvisible": true,
-    "noHandbookPause": false
+    "noHandbookPause": false,
+    "immersiveFpMode": false
   },
   "floatSettings": {
     "guiScale": 1.0,
