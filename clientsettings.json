@@ -45,8 +45,8 @@
     "masterserverUrl": "https://masterserver.vintagestory.at/api/v1/servers/",
     "modDbUrl": "https://mods.vintagestory.at/",
     "audioDevice": null,
-    "playeruid": "dee.covan@gmail.com",
-    "playername": "DeeCovan",
+    "playeruid": "", 
+    "playername": "",
     "lastSkinSelection": "baseskin:skin9,eyecolor:phthalo-blue,underwear:leotard,voicetype:tuba,voicepitch:medium,hairbase:mediumlength-bangs,hairextra:elaboratestickbun,facialexpression:serious,mustache:mst-line20-seagull,beard:brd-box01-chincurtain,haircolor:wintergreendream",
     "currentHandbookCategoryCode": "guide"
   },
