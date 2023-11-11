@@ -1,0 +1,13 @@
+Game Version: v1.19.0-pre.5 (Unstable)
+11-Nov-23 16:43:25: Critical error occurred
+Loaded Mods: 
+System.IO.FileNotFoundException: Could not load file or assembly 'PresentationFramework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35'. The system cannot find the file specified.
+File name: 'PresentationFramework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35'
+   at Eto.Wpf.Platform.<>c.<AddTo>b__10_89()
+   at Eto.Widget..ctor()
+   at Eto.Forms.Application..ctor(InitHelper init)
+   at Eto.Forms.Application..ctor(Platform platform)
+   at VSPlatform.XPlatImpl.ShowMessageBox(String title, String text) in XPlatformInterface\PlatformFormsImpl.cs:line 38
+   at Vintagestory.Client.ClientProgram.Start(ClientProgramArgs args, String[] rawArgs) in VintagestoryLib\Client\ClientProgram.cs:line 183
+   at Vintagestory.Client.ClientProgram.<>c__DisplayClass9_0.<.ctor>b__1() in VintagestoryLib\Client\ClientProgram.cs:line 128
+   at Vintagestory.ClientNative.CrashReporter.Start(ThreadStart start) in VintagestoryLib\Client\ClientPlatform\ClientNative\CrashReporter.cs:line 93

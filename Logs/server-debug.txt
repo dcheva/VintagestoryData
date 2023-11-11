@@ -1,0 +1,226 @@
+11.11.2023 17:40:56.472 [VerboseDebug] Entering runphase Initialization
+11.11.2023 17:40:56.473 [VerboseDebug] Entering runphase Configuration
+11.11.2023 17:40:56.484 [VerboseDebug] Entering runphase LoadAssets
+11.11.2023 17:40:56.485 [VerboseDebug] [VSCreativeMod.dll] Check for mod systems in mod C:\Games\VintageStory\1.19.0-pre.5\Mods\VSCreativeMod.dll
+11.11.2023 17:40:56.487 [VerboseDebug] [VSCreativeMod.dll] Selected assembly C:\Games\VintageStory\1.19.0-pre.5\Mods\VSCreativeMod.dll
+11.11.2023 17:40:56.489 [VerboseDebug] [VSEssentials.dll] Check for mod systems in mod C:\Games\VintageStory\1.19.0-pre.5\Mods\VSEssentials.dll
+11.11.2023 17:40:56.497 [VerboseDebug] [VSEssentials.dll] Selected assembly C:\Games\VintageStory\1.19.0-pre.5\Mods\VSEssentials.dll
+11.11.2023 17:40:56.498 [VerboseDebug] [VSSurvivalMod.dll] Check for mod systems in mod C:\Games\VintageStory\1.19.0-pre.5\Mods\VSSurvivalMod.dll
+11.11.2023 17:40:56.501 [VerboseDebug] [VSSurvivalMod.dll] Selected assembly C:\Games\VintageStory\1.19.0-pre.5\Mods\VSSurvivalMod.dll
+11.11.2023 17:40:56.503 [VerboseDebug] 3 assemblies loaded
+11.11.2023 17:40:56.503 [VerboseDebug] Instantiate mod systems for game
+11.11.2023 17:40:56.503 [VerboseDebug] Instantiate mod systems for creative
+11.11.2023 17:40:56.503 [VerboseDebug] Instantiate mod systems for survival
+11.11.2023 17:40:56.504 [VerboseDebug] Searching file system (including mods) for asset files
+11.11.2023 17:40:56.650 [VerboseDebug] Finished building index of asset files
+11.11.2023 17:40:56.664 [VerboseDebug] Reloaded lang file with mod assets
+11.11.2023 17:40:56.665 [VerboseDebug] Started mods
+11.11.2023 17:40:56.666 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 0: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+11.11.2023 17:40:56.666 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 1: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+11.11.2023 17:40:56.666 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 2: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+11.11.2023 17:40:56.666 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 3: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+11.11.2023 17:40:56.666 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 4: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+11.11.2023 17:40:56.666 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 5: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+11.11.2023 17:40:56.666 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 6: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+11.11.2023 17:40:56.666 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 7: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+11.11.2023 17:40:56.666 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 8: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+11.11.2023 17:40:56.666 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 9: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+11.11.2023 17:40:56.667 [VerboseDebug] Patch file game:patches/homosapiens.json, patch 0: Unmet IsValue condition (false!=True)
+11.11.2023 17:40:56.667 [VerboseDebug] Patch file game:patches/homosapiens.json, patch 1: Unmet IsValue condition (false!=True)
+11.11.2023 17:40:56.667 [VerboseDebug] Patch file game:patches/homosapiens.json, patch 2: Unmet IsValue condition (false!=True)
+11.11.2023 17:40:56.667 [VerboseDebug] Patch file game:patches/homosapiens.json, patch 3: Unmet IsValue condition (false!=True)
+11.11.2023 17:40:56.667 [VerboseDebug] Patch file game:patches/homosapiens.json, patch 4: Unmet IsValue condition (false!=True)
+11.11.2023 17:40:56.667 [VerboseDebug] Patch file game:patches/homosapiens.json, patch 5: Unmet IsValue condition (false!=True)
+11.11.2023 17:40:56.667 [VerboseDebug] Patch file game:patches/homosapiens.json, patch 6: Unmet IsValue condition (false!=True)
+11.11.2023 17:40:56.667 [VerboseDebug] Patch file game:patches/keepinventory.json, patch 0: Unmet IsValue condition (keep!=drop)
+11.11.2023 17:40:56.685 [VerboseDebug] Patchloader finished
+11.11.2023 17:40:56.685 [VerboseDebug] Starting to gather blocktypes, itemtypes and entities
+11.11.2023 17:40:56.742 [VerboseDebug] Starting parsing ItemTypes in 1 threads
+11.11.2023 17:40:56.957 [VerboseDebug] Gathered all types, starting to load items
+11.11.2023 17:40:57.001 [VerboseDebug] Took time to parse 21 variants of metalplate
+11.11.2023 17:40:57.059 [VerboseDebug] Took time to parse 398 variants of ore
+11.11.2023 17:40:57.095 [VerboseDebug] Took time to parse 16 variants of shovelhead
+11.11.2023 17:40:57.187 [VerboseDebug] Took time to parse 174 variants of armor
+11.11.2023 17:40:57.309 [VerboseDebug] Took time to parse 131 variants of creature
+11.11.2023 17:40:57.310 [VerboseDebug] Parsed and loaded items
+11.11.2023 17:40:57.435 [VerboseDebug] Took time to parse 70 variants of saltwater
+11.11.2023 17:40:57.525 [VerboseDebug] Took time to parse 138 variants of metalsheet
+11.11.2023 17:40:57.580 [VerboseDebug] Took time to parse 117 variants of leavesbranchy
+11.11.2023 17:40:57.629 [VerboseDebug] Took time to parse 96 variants of mushroom
+11.11.2023 17:40:57.680 [VerboseDebug] Took time to parse 80 variants of slantedroofing
+11.11.2023 17:40:57.760 [VerboseDebug] Took time to parse 209 variants of cobblestoneslab
+11.11.2023 17:40:57.807 [VerboseDebug] Took time to parse 228 variants of cobblestonestairs
+11.11.2023 17:40:57.887 [VerboseDebug] Took time to parse 168 variants of stonebrickstairs
+11.11.2023 17:40:57.918 [VerboseDebug] Took time to parse 120 variants of crystal
+11.11.2023 17:40:58.029 [VerboseDebug] Took time to parse 320 variants of drystonefence
+11.11.2023 17:40:58.105 [VerboseDebug] Took time to parse 294 variants of gravel
+11.11.2023 17:40:58.217 [VerboseDebug] Took time to parse 398 variants of ore
+11.11.2023 17:40:58.357 [VerboseDebug] Took time to parse 208 variants of woodenfence
+11.11.2023 17:40:58.430 [VerboseDebug] Took time to parse 208 variants of woodenfencegate
+11.11.2023 17:40:58.599 [VerboseDebug] Took time to parse 176 variants of roughhewnfence
+11.11.2023 17:40:58.864 [VerboseDebug] Parsed and loaded blocks
+11.11.2023 17:40:59.000 [VerboseDebug] Took time to parse 170 variants of butterfly
+11.11.2023 17:40:59.002 [VerboseDebug] Parsed and loaded entities
+11.11.2023 17:40:59.002 [VerboseDebug] BlockID Remapper: Begin
+11.11.2023 17:40:59.012 [VerboseDebug] 9274 block IDs loaded from savegame.
+11.11.2023 17:40:59.013 [VerboseDebug] Max BlockID is 9273
+11.11.2023 17:40:59.015 [VerboseDebug] Found 0 blocks requiring remapping and 0 new blocks
+11.11.2023 17:40:59.015 [VerboseDebug] Remapped 0 new blockids
+11.11.2023 17:40:59 [Debug] Found 0 missing blocks
+11.11.2023 17:40:59.017 [VerboseDebug] Block IDs have been written to savegame
+11.11.2023 17:40:59 [Debug] ItemID Remapper: Begin
+11.11.2023 17:40:59 [Debug] Item IDs loaded from savegame.
+11.11.2023 17:40:59 [Debug] Found 0 Item requiring remapping
+11.11.2023 17:40:59 [Debug] Remapped 0 new Itemids
+11.11.2023 17:40:59 [Debug] Found 0 missing Items
+11.11.2023 17:40:59 [Debug] Item IDs have been written to savegame
+11.11.2023 17:40:59.339 [VerboseDebug] Block simulation resolving collectibles
+11.11.2023 17:40:59.343 [VerboseDebug] Resolved blocks stacks
+11.11.2023 17:40:59.356 [VerboseDebug] Resolved items stacks
+11.11.2023 17:40:59.356 [VerboseDebug] Entering runphase AssetsFinalize
+11.11.2023 17:40:59.481 [VerboseDebug] Starting to build server assets packet
+11.11.2023 17:40:59.481 [VerboseDebug] Entering runphase LoadGamePre
+11.11.2023 17:40:59.481 [VerboseDebug] Starting system: Core
+11.11.2023 17:40:59.481 [VerboseDebug] Starting system: EntityPartitioning
+11.11.2023 17:40:59.481 [VerboseDebug] Starting system: ErrorReporter
+11.11.2023 17:40:59.481 [VerboseDebug] Starting system: GenTerra
+11.11.2023 17:40:59.481 [VerboseDebug] Starting system: GenSnowLayer
+11.11.2023 17:40:59.481 [VerboseDebug] Starting system: ModSystemControlPoints
+11.11.2023 17:40:59.494 [VerboseDebug] Starting system: Core
+11.11.2023 17:40:59.494 [VerboseDebug] Starting system: SurvivalCoreSystem
+11.11.2023 17:40:59.494 [VerboseDebug] Starting system: GenTerraPostProcess
+11.11.2023 17:40:59.494 [VerboseDebug] Starting system: ModCompatiblityUtil
+11.11.2023 17:40:59.494 [VerboseDebug] Starting system: ModJsonPatchLoader
+11.11.2023 17:40:59.494 [VerboseDebug] Starting system: PathfindSystem
+11.11.2023 17:40:59.494 [VerboseDebug] Starting system: PathFindDebug
+11.11.2023 17:40:59.494 [VerboseDebug] Starting system: PathfindingAsync
+11.11.2023 17:40:59.494 [VerboseDebug] Starting system: JsonExport
+11.11.2023 17:40:59.494 [VerboseDebug] Starting system: ModBasicBlocksLoader
+11.11.2023 17:40:59.494 [VerboseDebug] Starting system: ModSystemDormancyStateChecker
+11.11.2023 17:40:59.494 [VerboseDebug] Starting system: ModSystemSyncHarvestableDropsToClient
+11.11.2023 17:40:59.494 [VerboseDebug] Starting system: ModSystemEmotes
+11.11.2023 17:40:59.494 [VerboseDebug] Starting system: LeafBlockDecay
+11.11.2023 17:40:59.494 [VerboseDebug] Starting system: POIRegistry
+11.11.2023 17:40:59.494 [VerboseDebug] Starting system: RoomRegistry
+11.11.2023 17:40:59.494 [VerboseDebug] Starting system: WeatherSystemCommands
+11.11.2023 17:40:59.494 [VerboseDebug] Starting system: WeatherSystemServer
+11.11.2023 17:40:59.498 [VerboseDebug] Starting system: WorldMapManager
+11.11.2023 17:40:59.498 [VerboseDebug] Starting system: WorldEdit
+11.11.2023 17:40:59.498 [VerboseDebug] Starting system: DebugSystem
+11.11.2023 17:40:59.498 [VerboseDebug] Starting system: UpgradeTasks
+11.11.2023 17:40:59.498 [VerboseDebug] Starting system: ChiselBlockBulkSetMaterial
+11.11.2023 17:40:59.498 [VerboseDebug] Starting system: ModSystemDetailModeSync
+11.11.2023 17:40:59.498 [VerboseDebug] Starting system: NpcControl
+11.11.2023 17:40:59.498 [VerboseDebug] Starting system: ModSystemTiledDungeonGenerator
+11.11.2023 17:40:59.516 [VerboseDebug] Starting system: GenFromHeightmap
+11.11.2023 17:40:59.516 [VerboseDebug] Starting system: GenMaps
+11.11.2023 17:40:59.516 [VerboseDebug] Starting system: GenRockStrataNew
+11.11.2023 17:40:59.516 [VerboseDebug] Starting system: GenHotSprings
+11.11.2023 17:40:59.516 [VerboseDebug] Starting system: GenCreatures
+11.11.2023 17:40:59.516 [VerboseDebug] Starting system: WgenCommands
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: ModSystemExplosionAffectedStability
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: MyceliumSystem
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: ModsystemButterflySpawnCondsExtra
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: ModSystemCatchCreature
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: ModSystemGliding
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: ClutterBookshelfUtil
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: ScreenshakeToClientModSystem
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: ModSystemResoArchiveCommands
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: ResoArchivesSpawnConditions
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: ModSystemAuction
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: ModSystemBlockReinforcement
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: Core
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: CharacterSystem
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: DialogueSystem
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: FruitingSystem
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: ModSystemCommandHandbook
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: ModSystemTutorial
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: ModSystemCorpseReturnTeleporter
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: ModSystemNightVision
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: ModJournal
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: LiquidItemStackRenderer
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: ModSystemStructureLocator
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: ModLootRandomizer
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: ModSystemRifts
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: ModSystemRiftWeather
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: ModSleeping
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: ModSystemSupportBeamPlacer
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: TeleporterManager
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: ModTemperature
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: SystemTemporalStability
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: TemporalStabilityEffects
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: ModSystemWearableStats
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: ModSystemEditableBook
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: MechanicalPowerMod
+11.11.2023 17:40:59.517 [VerboseDebug] Starting system: GenDungeons
+11.11.2023 17:40:59.521 [VerboseDebug] Starting system: ModRegistryObjectTypeLoader
+11.11.2023 17:40:59.521 [VerboseDebug] Starting system: GenDeposits
+11.11.2023 17:40:59.521 [VerboseDebug] Starting system: GenStoryStructures
+11.11.2023 17:40:59.521 [VerboseDebug] Starting system: LoadColorMaps
+11.11.2023 17:40:59.521 [VerboseDebug] Starting system: GenCaves
+11.11.2023 17:40:59.521 [VerboseDebug] Starting system: GenStructures
+11.11.2023 17:40:59.521 [VerboseDebug] Starting system: ClothManager
+11.11.2023 17:40:59.521 [VerboseDebug] Starting system: GenBlockLayersFlat
+11.11.2023 17:40:59.521 [VerboseDebug] Starting system: GenBlockLayers
+11.11.2023 17:40:59.521 [VerboseDebug] Starting system: GenPonds
+11.11.2023 17:40:59.521 [VerboseDebug] Starting system: GenStructuresPosPass
+11.11.2023 17:40:59.521 [VerboseDebug] Starting system: GenVegetationAndPatches
+11.11.2023 17:40:59.521 [VerboseDebug] Starting system: RecipeRegistrySystem
+11.11.2023 17:40:59.521 [VerboseDebug] Starting system: GenRivulets
+11.11.2023 17:40:59.521 [VerboseDebug] Starting system: GenLightCreative
+11.11.2023 17:40:59.521 [VerboseDebug] Starting system: GenLightSurvival
+11.11.2023 17:40:59.521 [VerboseDebug] Starting system: GridRecipeLoader
+11.11.2023 17:40:59.521 [VerboseDebug] Starting system: RecipeLoader
+11.11.2023 17:40:59.521 [VerboseDebug] Starting system: ModSystemOreMap
+11.11.2023 17:40:59.521 [VerboseDebug] Starting system: TraderOutfits
+11.11.2023 17:40:59.521 [VerboseDebug] Starting system: DisableRecipeRegisteringSystem
+11.11.2023 17:40:59.522 [VerboseDebug] Entity shape loading starting ...
+11.11.2023 17:40:59.873 [VerboseDebug] Entity shape loading completed
+11.11.2023 17:40:59 [Debug] Loading leaf block decay system
+11.11.2023 17:40:59 [Debug] Finished loading leaf block decay system
+11.11.2023 17:40:59.943 [VerboseDebug] Finished building server assets packet
+11.11.2023 17:40:59.943 [VerboseDebug] Single player: sent server assets packet to client
+11.11.2023 17:41:00 [Debug] Block simulation loaded blocks
+11.11.2023 17:41:00.187 [VerboseDebug] Initialised GenRockStrata
+11.11.2023 17:41:00 [Debug] Block simulation loaded items
+11.11.2023 17:41:00.221 [VerboseDebug] Entering runphase LoadGame
+11.11.2023 17:41:00.237 [VerboseDebug] Entering runphase WorldReady
+11.11.2023 17:41:00.237 [VerboseDebug] Init worldgen for GenTerra
+11.11.2023 17:41:00.237 [VerboseDebug] Init worldgen for GenSnowLayer
+11.11.2023 17:41:00.237 [VerboseDebug] Init worldgen for GenMaps
+11.11.2023 17:41:00.239 [VerboseDebug] Init worldgen for GenRockStrataNew
+11.11.2023 17:41:00.239 [VerboseDebug] Initialised GenRockStrata
+11.11.2023 17:41:00.239 [VerboseDebug] Init worldgen for GenHotSprings
+11.11.2023 17:41:00.239 [VerboseDebug] Init worldgen for GenCreatures
+11.11.2023 17:41:00.240 [VerboseDebug] Init worldgen for GenDeposits
+11.11.2023 17:41:00.247 [VerboseDebug] Initialised GenDeposits
+11.11.2023 17:41:00.247 [VerboseDebug] Init worldgen for GenStoryStructures
+11.11.2023 17:41:00.646 [VerboseDebug] Init worldgen for GenCaves
+11.11.2023 17:41:00.646 [VerboseDebug] Init worldgen for GenStructures
+11.11.2023 17:41:00.687 [VerboseDebug] Initialised GenDeposits
+11.11.2023 17:41:01.286 [VerboseDebug] Init worldgen for GenBlockLayers
+11.11.2023 17:41:01.287 [VerboseDebug] Init worldgen for GenPonds
+11.11.2023 17:41:01.287 [VerboseDebug] Init worldgen for GenVegetationAndPatches
+11.11.2023 17:41:01.303 [VerboseDebug] Init worldgen for GenRivulets
+11.11.2023 17:41:01.303 [VerboseDebug] Done all worldgens
+11.11.2023 17:41:01.560 [VerboseDebug] Done spawn chunk
+11.11.2023 17:41:01.560 [VerboseDebug] Entering runphase RunGame
+11.11.2023 17:41:02.810 [VerboseDebug] Received identification packet from DeeCovan
+11.11.2023 17:41:03.130 [VerboseDebug] HandleRequestJoin: Begin. Player: DeeCovan
+11.11.2023 17:41:03.130 [VerboseDebug] HandleRequestJoin: Before set name
+11.11.2023 17:41:03.130 [VerboseDebug] HandleRequestJoin: After Level initialize
+11.11.2023 17:41:03.301 [VerboseDebug] HandleRequestJoin: After broadcastplayerdata. hotbarslot: Vintagestory.API.Common.ItemSlotSurvival (6x Item Id 1566, Code game:stone-chert)
+11.11.2023 17:41:03.301 [VerboseDebug] HandleRequestJoin: After LevelFinalize
+11.11.2023 17:42:21.896 [VerboseDebug] DeeCovan moved 1x from hotbar-dee.covan@gmail.com to ground-dee.covan@gmail.com
+11.11.2023 17:42:22.410 [VerboseDebug] DeeCovan moved 1x from hotbar-dee.covan@gmail.com to ground-dee.covan@gmail.com
+11.11.2023 17:42:22.970 [VerboseDebug] DeeCovan moved 1x from hotbar-dee.covan@gmail.com to ground-dee.covan@gmail.com
+11.11.2023 17:46:54.673 [VerboseDebug] DeeCovan moved 1xРогоз from craftinggrid-dee.covan@gmail.com to hotbar-dee.covan@gmail.com
+11.11.2023 17:46:54.674 [VerboseDebug] DeeCovan moved 1xРогоз from craftinggrid-dee.covan@gmail.com to hotbar-dee.covan@gmail.com
+11.11.2023 17:46:54.675 [VerboseDebug] DeeCovan moved 1xРогоз from craftinggrid-dee.covan@gmail.com to hotbar-dee.covan@gmail.com
+11.11.2023 17:46:54.676 [VerboseDebug] DeeCovan moved 1xРогоз from craftinggrid-dee.covan@gmail.com to hotbar-dee.covan@gmail.com
+11.11.2023 17:46:54.678 [VerboseDebug] DeeCovan moved 1xРогоз from craftinggrid-dee.covan@gmail.com to hotbar-dee.covan@gmail.com
+11.11.2023 17:57:36.255 [VerboseDebug] DeeCovan moved 1x from hotbar-dee.covan@gmail.com to ground-dee.covan@gmail.com
+11.11.2023 17:57:37.507 [VerboseDebug] DeeCovan moved 1x from hotbar-dee.covan@gmail.com to ground-dee.covan@gmail.com
+11.11.2023 17:57:37.939 [VerboseDebug] DeeCovan moved 1x from hotbar-dee.covan@gmail.com to ground-dee.covan@gmail.com
+11.11.2023 17:59:55.020 [VerboseDebug] DeeCovan moved 4x from mouse-dee.covan@gmail.com to ground-dee.covan@gmail.com
+11.11.2023 18:03:10.795 [VerboseDebug] Entering runphase Shutdown

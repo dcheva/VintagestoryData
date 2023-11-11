@@ -1,0 +1,45 @@
+{
+  "wasdkeys": {
+    "pressed": [
+      "walkforward",
+      "jump",
+      "sneak",
+      "walkleft",
+      "walkright",
+      "sprint",
+      "walkbackward"
+    ]
+  },
+  "clicklink": {
+    "pressed": [
+      "togglemousecontrol"
+    ]
+  },
+  "keymods": {
+    "pressed": [
+      "characterdialog",
+      "inventorydialog"
+    ]
+  },
+  "getknappablestones": {
+    "achieved": 3
+  },
+  "getsticks": {
+    "achieved": 5
+  },
+  "craftknife": {
+    "achieved": 1
+  },
+  "getcattails": {
+    "achieved": 10
+  },
+  "getfood": {
+    "achieved": 4
+  },
+  "getdrygrass": {
+    "achieved": 3
+  },
+  "makefirepit": {
+    "achieved": 1
+  }
+}
