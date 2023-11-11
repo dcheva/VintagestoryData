@@ -61,8 +61,8 @@
     "audioDevice": null,
     "playeruid": "Dee.Covan@gmail.com",
     "playername": "DeeCovan",
-    "lastSkinSelection": "baseskin:skin9,eyecolor:aquamarine,underwear:twopiece,voicetype:tuba,voicepitch:medium,hairbase:dreadlocks,hairextra:topbun,facialexpression:sad,mustache:mst-u01-horseshoe,beard:brd-box01-chincurtain,haircolor:wintergreendream",
-    "currentHandbookCategoryCode": "stack"
+    "lastSkinSelection": "baseskin:skin8,eyecolor:malachite,underwear:breeches,voicetype:harmonica,voicepitch:verylow,hairbase:short,hairextra:elaboratestickbun,facialexpression:upset,mustache:none,beard:none,haircolor:slategray",
+    "currentHandbookCategoryCode": "tutorial"
   },
   "intSettings": {
     "mipmapLevel": 3,
@@ -156,7 +156,7 @@
     "startupErrorDialog": false,
     "hasGameServer": false,
     "showMinimapHud": true,
-    "chatdialogvisible": true,
+    "chatdialogvisible": false,
     "noHandbookPause": false,
     "immersiveFpMode": false
   },

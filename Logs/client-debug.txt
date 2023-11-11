@@ -1,766 +1,281 @@
-11.11.2023 18:47:06 [Debug] Creating game window with window mode Fullscreen
-11.11.2023 18:47:07.222 [VerboseDebug] Loadsounds, found 46 sounds
-11.11.2023 18:47:07.450 [VerboseDebug] Lang key not found: game:Access Code
-11.11.2023 18:47:07.571 [VerboseDebug] Lang key not found: game:Player name
-11.11.2023 18:47:07.571 [VerboseDebug] Lang key not found: game:UID
-11.11.2023 18:47:27.003 [VerboseDebug] Lang key not found: game:Player UID is too short. At least 9 characters required
-11.11.2023 18:47:38.947 [VerboseDebug] [VSCreativeMod.dll] Check for mod systems in mod C:\Games\VintageStory\1.19.0-pre.5\Mods\VSCreativeMod.dll
-11.11.2023 18:47:38.976 [VerboseDebug] [VSCreativeMod.dll] Selected assembly C:\Games\VintageStory\1.19.0-pre.5\Mods\VSCreativeMod.dll
-11.11.2023 18:47:38.994 [VerboseDebug] [VSEssentials.dll] Check for mod systems in mod C:\Games\VintageStory\1.19.0-pre.5\Mods\VSEssentials.dll
-11.11.2023 18:47:38.997 [VerboseDebug] [VSEssentials.dll] Selected assembly C:\Games\VintageStory\1.19.0-pre.5\Mods\VSEssentials.dll
-11.11.2023 18:47:38.999 [VerboseDebug] [VSSurvivalMod.dll] Check for mod systems in mod C:\Games\VintageStory\1.19.0-pre.5\Mods\VSSurvivalMod.dll
-11.11.2023 18:47:39.008 [VerboseDebug] [VSSurvivalMod.dll] Selected assembly C:\Games\VintageStory\1.19.0-pre.5\Mods\VSSurvivalMod.dll
-11.11.2023 18:47:39.077 [VerboseDebug] Left bottom main menu text is at 13/1027.6890625 w/h 300,44.310937499999994
-11.11.2023 18:48:52.103 [VerboseDebug] Lang key not found: game:No custom configurations
-11.11.2023 18:49:24 [Debug] GuiScreenConnectingToServer constructed
-11.11.2023 18:49:29.565 [VerboseDebug] Received server assets packet; waiting on light levels packet before decoding.
-11.11.2023 18:49:29.594 [VerboseDebug] Handling ServerIdentification packet; requires remapping is True
-11.11.2023 18:49:29.596 [VerboseDebug] Received world meta data
-11.11.2023 18:49:29.611 [VerboseDebug] Received server assets
-11.11.2023 18:49:29.617 [VerboseDebug] [VSCreativeMod.dll] Check for mod systems in mod C:\Games\VintageStory\1.19.0-pre.5\Mods\VSCreativeMod.dll
-11.11.2023 18:49:29.620 [VerboseDebug] [VSCreativeMod.dll] Selected assembly C:\Games\VintageStory\1.19.0-pre.5\Mods\VSCreativeMod.dll
-11.11.2023 18:49:29.621 [VerboseDebug] [VSEssentials.dll] Check for mod systems in mod C:\Games\VintageStory\1.19.0-pre.5\Mods\VSEssentials.dll
-11.11.2023 18:49:29.627 [VerboseDebug] [VSEssentials.dll] Selected assembly C:\Games\VintageStory\1.19.0-pre.5\Mods\VSEssentials.dll
-11.11.2023 18:49:29.629 [VerboseDebug] [VSSurvivalMod.dll] Check for mod systems in mod C:\Games\VintageStory\1.19.0-pre.5\Mods\VSSurvivalMod.dll
-11.11.2023 18:49:29.639 [VerboseDebug] [VSSurvivalMod.dll] Selected assembly C:\Games\VintageStory\1.19.0-pre.5\Mods\VSSurvivalMod.dll
-11.11.2023 18:49:29.641 [VerboseDebug] 3 assemblies loaded
-11.11.2023 18:49:29.641 [VerboseDebug] Instantiate mod systems for game
-11.11.2023 18:49:29.641 [VerboseDebug] Instantiate mod systems for creative
-11.11.2023 18:49:29.641 [VerboseDebug] Instantiate mod systems for survival
-11.11.2023 18:49:29.642 [VerboseDebug] Single player game - starting mods on the client-side
-11.11.2023 18:49:29.649 [VerboseDebug] Server assets - done step 1, next steps off-thread
-11.11.2023 18:49:29.650 [VerboseDebug] Searching file system (including mods) for asset files
-11.11.2023 18:49:29.700 [VerboseDebug] Populated 440 EntityTypes from server
-11.11.2023 18:49:29.819 [VerboseDebug] Populated 3094 ItemTypes from server, highest ItemID is 3093
-11.11.2023 18:49:29.967 [VerboseDebug] Finished the search for asset files
-11.11.2023 18:49:30.022 [VerboseDebug] Loaded lang file: ru
-11.11.2023 18:49:30.025 [VerboseDebug] Patch file game:patches/playertemporalstability.json, patch 0: Unmet IsValue condition (true!=False)
-11.11.2023 18:49:30.025 [VerboseDebug] Patch file game:patches/playertemporalstability.json, patch 1: Unmet IsValue condition (true!=False)
-11.11.2023 18:49:30.026 [VerboseDebug] Patchloader finished
-11.11.2023 18:49:30.029 [VerboseDebug] All client-side assets loaded and patched; configs, shapes, textures and sounds are now available for loading
-11.11.2023 18:49:30.030 [VerboseDebug] Starting to load entity shapes
-11.11.2023 18:49:30.031 [VerboseDebug] Starting to load item shapes
-11.11.2023 18:49:30.031 [VerboseDebug] Entity shape loading starting ...
-11.11.2023 18:49:30.048 [VerboseDebug] [LoadShapes] Searched through items...
-11.11.2023 18:49:30.646 [VerboseDebug] Populated 9274 BlockTypes from server, highest BlockID is 9273
-11.11.2023 18:49:30.646 [VerboseDebug] Starting to load block shapes
-11.11.2023 18:49:30.678 [VerboseDebug] Resolved blocks and items stacks and drops
-11.11.2023 18:49:30.679 [VerboseDebug] [LoadShapes] Searching through blocks...
-11.11.2023 18:49:30.738 [VerboseDebug] Entity shape loading completed
-11.11.2023 18:49:30.757 [VerboseDebug] Loaded 23 ColorMap textures
-11.11.2023 18:49:30.757 [VerboseDebug] Loadsounds, found 440 sounds
-11.11.2023 18:49:30.953 [VerboseDebug] Server assets - composing entity texture atlas on main thread
-11.11.2023 18:49:30.970 [VerboseDebug] Server assets - done entity textures composition
-11.11.2023 18:49:30.972 [VerboseDebug] Server assets - done entity textures mipmap creation
-11.11.2023 18:49:30.974 [VerboseDebug] Server assets - done entity textures random and average color collection
-11.11.2023 18:49:30.999 [VerboseDebug] [LoadShapes] Searched through 9274 blocks
-11.11.2023 18:49:30.999 [VerboseDebug] [LoadShapes] Starting to parse block shapes...
-11.11.2023 18:49:31.001 [VerboseDebug] [LoadShapes] loaded 1 block shapes in obj and gltf formats
-11.11.2023 18:49:31.041 [VerboseDebug] [LoadShapes] parsed 697 shapes from JSON for items
-11.11.2023 18:49:31.430 [VerboseDebug] [LoadShapes] parsed 560 shapes from JSON (2nd block loading thread)
-11.11.2023 18:49:31.430 [VerboseDebug] [LoadShapes] parsed 573 shapes from JSON for 9274 blocks, some others done offthread
-11.11.2023 18:49:31.431 [VerboseDebug] BlockTextureAtlas start collecting textures (already holds 23 colormap textures)
-11.11.2023 18:49:31.448 [VerboseDebug] Server assets - composing item texture atlas on main thread
-11.11.2023 18:49:31.467 [VerboseDebug] Server assets - done item textures composition
-11.11.2023 18:49:31.467 [VerboseDebug] Server assets - done item textures mipmap creation
-11.11.2023 18:49:31.474 [VerboseDebug] Server assets - done item textures random and average color collection
-11.11.2023 18:49:32.351 [VerboseDebug] --- Server started ---
-11.11.2023 18:49:32.453 [VerboseDebug] Server assets - done item tesselation spread over 15 frames
-11.11.2023 18:49:32.857 [VerboseDebug] Starting to load sounds fully
-11.11.2023 18:49:32.869 [VerboseDebug] Server assets - composing block texture atlas on main thread
-11.11.2023 18:49:32.881 [VerboseDebug] Server assets - done block textures composition
-11.11.2023 18:49:32.885 [VerboseDebug] Server assets - done block textures mipmap creation
-11.11.2023 18:49:32.893 [VerboseDebug] Server assets - done block textures random and average color collection
-11.11.2023 18:49:32.904 [VerboseDebug] Server assets - done step 9
-11.11.2023 18:49:32 [Debug] Opening socket to server...
-11.11.2023 18:49:32.964 [VerboseDebug] Server assets - done texture atlas frame buffer
-11.11.2023 18:49:33 [Debug] Ident packet sent.
-11.11.2023 18:49:33.167 [VerboseDebug] Handling ServerReady packet
-11.11.2023 18:49:33.167 [VerboseDebug] Starting system: Core
-11.11.2023 18:49:33.167 [VerboseDebug] Starting system: EntityPartitioning
-11.11.2023 18:49:33.167 [VerboseDebug] Starting system: ErrorReporter
-11.11.2023 18:49:33.168 [VerboseDebug] Starting system: ModSystemControlPoints
-11.11.2023 18:49:33.168 [VerboseDebug] Starting system: Core
-11.11.2023 18:49:33.168 [VerboseDebug] Starting system: SurvivalCoreSystem
-11.11.2023 18:49:33.174 [VerboseDebug] Starting system: ModCompatiblityUtil
-11.11.2023 18:49:33.174 [VerboseDebug] Starting system: ModJsonPatchLoader
-11.11.2023 18:49:33.174 [VerboseDebug] Starting system: ModSystemDormancyStateChecker
-11.11.2023 18:49:33.174 [VerboseDebug] Starting system: ModSystemItemRendererOptimizer
-11.11.2023 18:49:33.174 [VerboseDebug] Starting system: FallingBlockParticlesModSystem
-11.11.2023 18:49:33.175 [VerboseDebug] Starting system: CharacterExtraDialogs
-11.11.2023 18:49:33.175 [VerboseDebug] Starting system: EntityNameTagRendererRegistry
-11.11.2023 18:49:33.175 [VerboseDebug] Starting system: POIRegistry
-11.11.2023 18:49:33.175 [VerboseDebug] Starting system: RoomRegistry
-11.11.2023 18:49:33.175 [VerboseDebug] Starting system: WeatherSystemCommands
-11.11.2023 18:49:33.175 [VerboseDebug] Starting system: WeatherSystemClient
-11.11.2023 18:49:33.193 [VerboseDebug] Starting system: WorldMapManager
-11.11.2023 18:49:33.193 [VerboseDebug] Starting system: WorldEdit
-11.11.2023 18:49:33.199 [VerboseDebug] Starting system: ModSystemBossHealthBars
-11.11.2023 18:49:33.199 [VerboseDebug] Starting system: DebugSystem
-11.11.2023 18:49:33.199 [VerboseDebug] Starting system: UpgradeTasks
-11.11.2023 18:49:33.199 [VerboseDebug] Starting system: ModSystemDetailModeSync
-11.11.2023 18:49:33.199 [VerboseDebug] Starting system: ModSystemTiledDungeonGenerator
-11.11.2023 18:49:33.199 [VerboseDebug] Starting system: GenFromHeightmap
-11.11.2023 18:49:33.199 [VerboseDebug] Starting system: GenMaps
-11.11.2023 18:49:33.200 [VerboseDebug] Starting system: MyceliumSystem
-11.11.2023 18:49:33.200 [VerboseDebug] Starting system: ModSystemCatchCreature
-11.11.2023 18:49:33.203 [VerboseDebug] Starting system: ModSystemGliding
-11.11.2023 18:49:33.203 [VerboseDebug] Starting system: ModSystemMeasuringRope
-11.11.2023 18:49:33.205 [VerboseDebug] Starting system: ScreenshakeToClientModSystem
-11.11.2023 18:49:33.205 [VerboseDebug] Starting system: ResoArchivesSpawnConditions
-11.11.2023 18:49:33.205 [VerboseDebug] Starting system: ModSystemAuction
-11.11.2023 18:49:33.207 [VerboseDebug] Starting system: ModSystemBlockReinforcement
-11.11.2023 18:49:33.211 [VerboseDebug] Starting system: Core
-11.11.2023 18:49:33.211 [VerboseDebug] Starting system: ModSystemBoatingSound
-11.11.2023 18:49:33.211 [VerboseDebug] Starting system: CharacterSystem
-11.11.2023 18:49:33.212 [VerboseDebug] Starting system: MealMeshCache
-11.11.2023 18:49:33.212 [VerboseDebug] Starting system: DialogueSystem
-11.11.2023 18:49:33.218 [VerboseDebug] Starting system: FruitingSystem
-11.11.2023 18:49:33.218 [VerboseDebug] Starting system: ModSystemCommandHandbook
-11.11.2023 18:49:33.219 [VerboseDebug] Starting system: ModSystemSurvivalHandbook
-11.11.2023 18:49:33.321 [VerboseDebug] Lang key not found: game:Show Survival handbook
-11.11.2023 18:49:33.321 [VerboseDebug] Starting system: ModSystemTutorial
-11.11.2023 18:49:33.324 [VerboseDebug] Starting system: ModSystemNightVision
-11.11.2023 18:49:33.324 [VerboseDebug] Starting system: ModJournal
-11.11.2023 18:49:33.331 [VerboseDebug] Starting system: LiquidItemStackRenderer
-11.11.2023 18:49:33.331 [VerboseDebug] Starting system: ModSystemStructureLocator
-11.11.2023 18:49:33.331 [VerboseDebug] Starting system: ModLootRandomizer
-11.11.2023 18:49:33.331 [VerboseDebug] Starting system: MicroBlockModelCache
-11.11.2023 18:49:33.331 [VerboseDebug] Starting system: ModSystemRifts
-11.11.2023 18:49:33.336 [VerboseDebug] Starting system: ModSystemRiftWeather
-11.11.2023 18:49:33.336 [VerboseDebug] Starting system: ModSleeping
-11.11.2023 18:49:33.339 [VerboseDebug] Starting system: ModSystemSupportBeamPlacer
-11.11.2023 18:49:33.339 [VerboseDebug] Starting system: TeleporterManager
-11.11.2023 18:49:33.340 [VerboseDebug] Starting system: ModTemperature
-11.11.2023 18:49:33.340 [VerboseDebug] Starting system: SystemTemporalStability
-11.11.2023 18:49:33.341 [VerboseDebug] Starting system: TemporalStabilityEffects
-11.11.2023 18:49:33.344 [VerboseDebug] Starting system: ModSystemWearableStats
-11.11.2023 18:49:33.344 [VerboseDebug] Starting system: ModSystemEditableBook
-11.11.2023 18:49:33.344 [VerboseDebug] Starting system: MechanicalPowerMod
-11.11.2023 18:49:33.344 [VerboseDebug] Starting system: TradeHandbookInfo
-11.11.2023 18:49:33.344 [VerboseDebug] Starting system: LoadColorMaps
-11.11.2023 18:49:33.344 [VerboseDebug] Starting system: ClothManager
-11.11.2023 18:49:33.350 [VerboseDebug] Starting system: RecipeRegistrySystem
-11.11.2023 18:49:33.350 [VerboseDebug] Starting system: ModSystemOreMap
-11.11.2023 18:49:33.351 [VerboseDebug] Starting system: TraderOutfits
-11.11.2023 18:49:33.580 [VerboseDebug] Sending request to join server
-11.11.2023 18:49:33 [Debug] GuiScreenConnectingToServer constructed
-11.11.2023 18:49:33.727 [VerboseDebug] Lang key not found: <a href="chattype://{0}">{1}</a>
-11.11.2023 18:49:33.791 [VerboseDebug] Lang key not found: game:{0} is a decimal number, for example 0.5
-11.11.2023 18:49:33.821 [VerboseDebug] Lang key not found: game:{0} is a precise {1} name, optionally immediately followed by braces {{}} containing attributes for the {1}
-11.11.2023 18:49:35.380 [VerboseDebug] Left bottom main menu text is at 13/1027.6890625 w/h 300,44.310937499999994
-11.11.2023 18:49:35.786 [VerboseDebug] Server assets - done block tesselation
-11.11.2023 18:49:43.702 [VerboseDebug] Lang key not found: game:worldconfig-playerHealthRegenSpeed-Normal (100%)
-11.11.2023 18:49:43.723 [VerboseDebug] Lang key not found: game:worldattribute-caveIns
-11.11.2023 18:49:43.723 [VerboseDebug] Lang key not found: game:worldconfig-caveIns-Enabled
-11.11.2023 18:50:37 [Debug] GuiScreenConnectingToServer constructed
-11.11.2023 18:50:40.955 [VerboseDebug] Received server assets packet; waiting on light levels packet before decoding.
-11.11.2023 18:50:40.975 [VerboseDebug] Handling ServerIdentification packet; requires remapping is False
-11.11.2023 18:50:40.975 [VerboseDebug] Received world meta data
-11.11.2023 18:50:41.014 [VerboseDebug] Received server assets
-11.11.2023 18:50:41.016 [VerboseDebug] [VSCreativeMod.dll] Check for mod systems in mod C:\Games\VintageStory\1.19.0-pre.5\Mods\VSCreativeMod.dll
-11.11.2023 18:50:41.019 [VerboseDebug] [VSCreativeMod.dll] Selected assembly C:\Games\VintageStory\1.19.0-pre.5\Mods\VSCreativeMod.dll
-11.11.2023 18:50:41.020 [VerboseDebug] [VSEssentials.dll] Check for mod systems in mod C:\Games\VintageStory\1.19.0-pre.5\Mods\VSEssentials.dll
-11.11.2023 18:50:41.025 [VerboseDebug] [VSEssentials.dll] Selected assembly C:\Games\VintageStory\1.19.0-pre.5\Mods\VSEssentials.dll
-11.11.2023 18:50:41.027 [VerboseDebug] [VSSurvivalMod.dll] Check for mod systems in mod C:\Games\VintageStory\1.19.0-pre.5\Mods\VSSurvivalMod.dll
-11.11.2023 18:50:41.033 [VerboseDebug] [VSSurvivalMod.dll] Selected assembly C:\Games\VintageStory\1.19.0-pre.5\Mods\VSSurvivalMod.dll
-11.11.2023 18:50:41.035 [VerboseDebug] 3 assemblies loaded
-11.11.2023 18:50:41.035 [VerboseDebug] Instantiate mod systems for game
-11.11.2023 18:50:41.036 [VerboseDebug] Instantiate mod systems for creative
-11.11.2023 18:50:41.036 [VerboseDebug] Instantiate mod systems for survival
-11.11.2023 18:50:41.036 [VerboseDebug] Single player game - starting mods on the client-side
-11.11.2023 18:50:41.037 [VerboseDebug] Server assets - done step 1, next steps off-thread
-11.11.2023 18:50:41.037 [VerboseDebug] Searching file system (including mods) for asset files
-11.11.2023 18:50:41.087 [VerboseDebug] Populated 440 EntityTypes from server
-11.11.2023 18:50:41.195 [VerboseDebug] Populated 3094 ItemTypes from server, highest ItemID is 3093
-11.11.2023 18:50:41.440 [VerboseDebug] Finished the search for asset files
-11.11.2023 18:50:41.502 [VerboseDebug] Loaded lang file: ru
-11.11.2023 18:50:41.522 [VerboseDebug] Patch file game:patches/playertemporalstability.json, patch 0: Unmet IsValue condition (true!=False)
-11.11.2023 18:50:41.522 [VerboseDebug] Patch file game:patches/playertemporalstability.json, patch 1: Unmet IsValue condition (true!=False)
-11.11.2023 18:50:41.522 [VerboseDebug] Patchloader finished
-11.11.2023 18:50:41.528 [VerboseDebug] All client-side assets loaded and patched; configs, shapes, textures and sounds are now available for loading
-11.11.2023 18:50:41.530 [VerboseDebug] Starting to load entity shapes
-11.11.2023 18:50:41.531 [VerboseDebug] Entity shape loading starting ...
-11.11.2023 18:50:41.536 [VerboseDebug] Starting to load item shapes
-11.11.2023 18:50:41.538 [VerboseDebug] [LoadShapes] Searched through items...
-11.11.2023 18:50:41.713 [VerboseDebug] Populated 9274 BlockTypes from server, highest BlockID is 9273
-11.11.2023 18:50:41.713 [VerboseDebug] Starting to load block shapes
-11.11.2023 18:50:41.736 [VerboseDebug] Resolved blocks and items stacks and drops
-11.11.2023 18:50:41.736 [VerboseDebug] [LoadShapes] Searching through blocks...
-11.11.2023 18:50:41.954 [VerboseDebug] [LoadShapes] Searched through 9274 blocks
-11.11.2023 18:50:42.063 [VerboseDebug] Entity shape loading completed
-11.11.2023 18:50:42.073 [VerboseDebug] [LoadShapes] Starting to parse block shapes...
-11.11.2023 18:50:42.073 [VerboseDebug] [LoadShapes] loaded 1 block shapes in obj and gltf formats
-11.11.2023 18:50:42.091 [VerboseDebug] Loaded 23 ColorMap textures
-11.11.2023 18:50:42.091 [VerboseDebug] Loadsounds, found 440 sounds
-11.11.2023 18:50:42.321 [VerboseDebug] Server assets - composing entity texture atlas on main thread
-11.11.2023 18:50:42.336 [VerboseDebug] Server assets - done entity textures composition
-11.11.2023 18:50:42.337 [VerboseDebug] Server assets - done entity textures random and average color collection
-11.11.2023 18:50:42.338 [VerboseDebug] Server assets - done entity textures mipmap creation
-11.11.2023 18:50:42.521 [VerboseDebug] [LoadShapes] parsed 697 shapes from JSON for items
-11.11.2023 18:50:42.580 [VerboseDebug] [LoadShapes] parsed 555 shapes from JSON for 9274 blocks, some others done offthread
-11.11.2023 18:50:42.580 [VerboseDebug] [LoadShapes] parsed 578 shapes from JSON (2nd block loading thread)
-11.11.2023 18:50:42.591 [VerboseDebug] BlockTextureAtlas start collecting textures (already holds 23 colormap textures)
-11.11.2023 18:50:42.867 [VerboseDebug] Server assets - composing item texture atlas on main thread
-11.11.2023 18:50:42.881 [VerboseDebug] Server assets - done item textures composition
-11.11.2023 18:50:42.884 [VerboseDebug] Server assets - done item textures mipmap creation
-11.11.2023 18:50:42.887 [VerboseDebug] Server assets - done item textures random and average color collection
-11.11.2023 18:50:43.762 [VerboseDebug] Server assets - done item tesselation spread over 13 frames
-11.11.2023 18:50:43.781 [VerboseDebug] Starting to load sounds fully
-11.11.2023 18:50:43.798 [VerboseDebug] Server assets - composing block texture atlas on main thread
-11.11.2023 18:50:43.809 [VerboseDebug] Server assets - done block textures composition
-11.11.2023 18:50:43.819 [VerboseDebug] Server assets - done block textures random and average color collection
-11.11.2023 18:50:43.851 [VerboseDebug] Server assets - done block textures mipmap creation
-11.11.2023 18:50:43.851 [VerboseDebug] Server assets - done step 9
-11.11.2023 18:50:43.930 [VerboseDebug] Server assets - done texture atlas frame buffer
-11.11.2023 18:50:45.079 [VerboseDebug] Server assets - done block tesselation
-11.11.2023 18:50:46.249 [VerboseDebug] Loaded highest priority sound assets
-11.11.2023 18:50:51.905 [VerboseDebug] --- Server started ---
-11.11.2023 18:50:51 [Debug] Opening socket to server...
-11.11.2023 18:50:51 [Debug] Ident packet sent.
-11.11.2023 18:50:52.004 [VerboseDebug] Handling ServerReady packet
-11.11.2023 18:50:52.004 [VerboseDebug] Starting system: Core
-11.11.2023 18:50:52.004 [VerboseDebug] Starting system: EntityPartitioning
-11.11.2023 18:50:52.004 [VerboseDebug] Starting system: ErrorReporter
-11.11.2023 18:50:52.004 [VerboseDebug] Starting system: ModSystemControlPoints
-11.11.2023 18:50:52.004 [VerboseDebug] Starting system: Core
-11.11.2023 18:50:52.004 [VerboseDebug] Starting system: SurvivalCoreSystem
-11.11.2023 18:50:52.008 [VerboseDebug] Starting system: ModCompatiblityUtil
-11.11.2023 18:50:52.008 [VerboseDebug] Starting system: ModJsonPatchLoader
-11.11.2023 18:50:52.008 [VerboseDebug] Starting system: ModSystemDormancyStateChecker
-11.11.2023 18:50:52.008 [VerboseDebug] Starting system: ModSystemItemRendererOptimizer
-11.11.2023 18:50:52.008 [VerboseDebug] Starting system: FallingBlockParticlesModSystem
-11.11.2023 18:50:52.008 [VerboseDebug] Starting system: CharacterExtraDialogs
-11.11.2023 18:50:52.008 [VerboseDebug] Starting system: EntityNameTagRendererRegistry
-11.11.2023 18:50:52.008 [VerboseDebug] Starting system: POIRegistry
-11.11.2023 18:50:52.008 [VerboseDebug] Starting system: RoomRegistry
-11.11.2023 18:50:52.008 [VerboseDebug] Starting system: WeatherSystemCommands
-11.11.2023 18:50:52.008 [VerboseDebug] Starting system: WeatherSystemClient
-11.11.2023 18:50:52.011 [VerboseDebug] Starting system: WorldMapManager
-11.11.2023 18:50:52.011 [VerboseDebug] Starting system: WorldEdit
-11.11.2023 18:50:52.012 [VerboseDebug] Starting system: ModSystemBossHealthBars
-11.11.2023 18:50:52.012 [VerboseDebug] Starting system: DebugSystem
-11.11.2023 18:50:52.012 [VerboseDebug] Starting system: UpgradeTasks
-11.11.2023 18:50:52.012 [VerboseDebug] Starting system: ModSystemDetailModeSync
-11.11.2023 18:50:52.012 [VerboseDebug] Starting system: ModSystemTiledDungeonGenerator
-11.11.2023 18:50:52.012 [VerboseDebug] Starting system: GenFromHeightmap
-11.11.2023 18:50:52.012 [VerboseDebug] Starting system: GenMaps
-11.11.2023 18:50:52.012 [VerboseDebug] Starting system: MyceliumSystem
-11.11.2023 18:50:52.012 [VerboseDebug] Starting system: ModSystemCatchCreature
-11.11.2023 18:50:52.012 [VerboseDebug] Starting system: ModSystemGliding
-11.11.2023 18:50:52.012 [VerboseDebug] Starting system: ModSystemMeasuringRope
-11.11.2023 18:50:52.012 [VerboseDebug] Starting system: ScreenshakeToClientModSystem
-11.11.2023 18:50:52.012 [VerboseDebug] Starting system: ResoArchivesSpawnConditions
-11.11.2023 18:50:52.012 [VerboseDebug] Starting system: ModSystemAuction
-11.11.2023 18:50:52.012 [VerboseDebug] Starting system: ModSystemBlockReinforcement
-11.11.2023 18:50:52.012 [VerboseDebug] Starting system: Core
-11.11.2023 18:50:52.012 [VerboseDebug] Starting system: ModSystemBoatingSound
-11.11.2023 18:50:52.012 [VerboseDebug] Starting system: CharacterSystem
-11.11.2023 18:50:52.012 [VerboseDebug] Starting system: MealMeshCache
-11.11.2023 18:50:52.012 [VerboseDebug] Starting system: DialogueSystem
-11.11.2023 18:50:52.012 [VerboseDebug] Starting system: FruitingSystem
-11.11.2023 18:50:52.012 [VerboseDebug] Starting system: ModSystemCommandHandbook
-11.11.2023 18:50:52.012 [VerboseDebug] Starting system: ModSystemSurvivalHandbook
-11.11.2023 18:50:52.115 [VerboseDebug] Starting system: ModSystemTutorial
-11.11.2023 18:50:52.116 [VerboseDebug] Starting system: ModSystemNightVision
-11.11.2023 18:50:52.116 [VerboseDebug] Starting system: ModJournal
-11.11.2023 18:50:52.116 [VerboseDebug] Starting system: LiquidItemStackRenderer
-11.11.2023 18:50:52.116 [VerboseDebug] Starting system: ModSystemStructureLocator
-11.11.2023 18:50:52.116 [VerboseDebug] Starting system: ModLootRandomizer
-11.11.2023 18:50:52.116 [VerboseDebug] Starting system: MicroBlockModelCache
-11.11.2023 18:50:52.116 [VerboseDebug] Starting system: ModSystemRifts
-11.11.2023 18:50:52.118 [VerboseDebug] Starting system: ModSystemRiftWeather
-11.11.2023 18:50:52.118 [VerboseDebug] Starting system: ModSleeping
-11.11.2023 18:50:52.119 [VerboseDebug] Starting system: ModSystemSupportBeamPlacer
-11.11.2023 18:50:52.119 [VerboseDebug] Starting system: TeleporterManager
-11.11.2023 18:50:52.119 [VerboseDebug] Starting system: ModTemperature
-11.11.2023 18:50:52.119 [VerboseDebug] Starting system: SystemTemporalStability
-11.11.2023 18:50:52.119 [VerboseDebug] Starting system: TemporalStabilityEffects
-11.11.2023 18:50:52.123 [VerboseDebug] Starting system: ModSystemWearableStats
-11.11.2023 18:50:52.123 [VerboseDebug] Starting system: ModSystemEditableBook
-11.11.2023 18:50:52.123 [VerboseDebug] Starting system: MechanicalPowerMod
-11.11.2023 18:50:52.123 [VerboseDebug] Starting system: TradeHandbookInfo
-11.11.2023 18:50:52.123 [VerboseDebug] Starting system: LoadColorMaps
-11.11.2023 18:50:52.123 [VerboseDebug] Starting system: ClothManager
-11.11.2023 18:50:52.123 [VerboseDebug] Starting system: RecipeRegistrySystem
-11.11.2023 18:50:52.123 [VerboseDebug] Starting system: ModSystemOreMap
-11.11.2023 18:50:52.123 [VerboseDebug] Starting system: TraderOutfits
-11.11.2023 18:50:52.250 [VerboseDebug] Sending request to join server
-11.11.2023 18:50:52.270 [VerboseDebug] World configs received and block tesselation complete
-11.11.2023 18:50:52.305 [VerboseDebug] Trigger mod event OnBlockTexturesLoaded
-11.11.2023 18:50:52.354 [VerboseDebug] Done client systems OnLoaded
-11.11.2023 18:50:52.563 [VerboseDebug] Slow to load blocks (>1ms) game:fruittree-stem,game:fruittree-branch,game:fruittree-cutting,game:fruittree-foliage
-11.11.2023 18:50:52.635 [VerboseDebug] Done blocks OnLoaded
-11.11.2023 18:50:52.704 [VerboseDebug] Slow to load items (>1ms) game:pickaxe-iron,game:pickaxe-meteoriciron,game:pickaxe-steel,game:plumbandsquare
-11.11.2023 18:50:52.733 [VerboseDebug] Done items OnLoaded
-11.11.2023 18:50:52.753 [VerboseDebug] All clientside asset loading complete, game launch can proceed
-11.11.2023 18:50:52.768 [VerboseDebug] Loading sound file may stutter game:sounds/voice/saxophone.ogg
-11.11.2023 18:50:52.808 [VerboseDebug] Starting initialising handbook
-11.11.2023 18:50:52.809 [VerboseDebug] Lang key not found: game:All
-11.11.2023 18:50:52.809 [VerboseDebug] Lang key not found: game:Server Commands
-11.11.2023 18:50:52.809 [VerboseDebug] Lang key not found: game:Client Commands
-11.11.2023 18:50:52.809 [VerboseDebug] Lang key not found: game:Command Handbook
-11.11.2023 18:50:52.822 [VerboseDebug] Done creating handbook index GUI
-11.11.2023 18:50:52.822 [VerboseDebug] Done initialising handbook
-11.11.2023 18:50:52.826 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 18:50:52.826 [VerboseDebug] Lang key not found: game:entitlement-
-11.11.2023 18:50:52.827 [VerboseDebug] Received inventory contents hotbar-Dee.Covan@gmail.com
-11.11.2023 18:50:52.827 [VerboseDebug] Received inventory contents creative-Dee.Covan@gmail.com
-11.11.2023 18:50:52.845 [VerboseDebug] Received inventory contents backpack-Dee.Covan@gmail.com
-11.11.2023 18:50:52.845 [VerboseDebug] Received inventory contents ground-Dee.Covan@gmail.com
-11.11.2023 18:50:52.845 [VerboseDebug] Received inventory contents mouse-Dee.Covan@gmail.com
-11.11.2023 18:50:52.845 [VerboseDebug] Received inventory contents craftinggrid-Dee.Covan@gmail.com
-11.11.2023 18:50:52.849 [VerboseDebug] Received inventory contents character-Dee.Covan@gmail.com
-11.11.2023 18:50:52.849 [VerboseDebug] Informing clientsystems playerdata received
-11.11.2023 18:50:52.870 [VerboseDebug] GuiDialogInventory: starting composeGUI
-11.11.2023 18:50:52.881 [VerboseDebug] GuiDialogInventory: done composeGUI
-11.11.2023 18:50:53.035 [VerboseDebug] Lang key not found: game:Last selection
-11.11.2023 18:50:53.080 [VerboseDebug] Done handling playerdata packet
-11.11.2023 18:50:53.082 [VerboseDebug] Received level finalize
-11.11.2023 18:50:53.083 [VerboseDebug] Handling LevelFinalize packet; requires remapping is False
-11.11.2023 18:50:53.088 [VerboseDebug] Done level finalize clientsystems
-11.11.2023 18:50:53.108 [VerboseDebug] Done init WeatherSystemClient
-11.11.2023 18:50:53.111 [VerboseDebug] Lang key not found: game:block-baskettrap-reed
-11.11.2023 18:50:53.154 [VerboseDebug] Lang key not found: game:Prospecting layer
-11.11.2023 18:50:53.184 [VerboseDebug] Loading sound file may stutter game:sounds/raft-moving.ogg
-11.11.2023 18:50:53.337 [VerboseDebug] Loading sound file may stutter game:sounds/raft-idle.ogg
-11.11.2023 18:50:53.443 [VerboseDebug] Lang key not found: game:block-attachingplant-deadfungi
-11.11.2023 18:50:53.443 [VerboseDebug] Lang key not found: game:block-attachingplant-spottymold
-11.11.2023 18:50:53.444 [VerboseDebug] Lang key not found: game:block-attachingplant-sparsemold
-11.11.2023 18:50:53.444 [VerboseDebug] Lang key not found: game:block-precipitate-dust-heavy
-11.11.2023 18:50:53.444 [VerboseDebug] Lang key not found: game:block-precipitate-dust-light
-11.11.2023 18:50:53.444 [VerboseDebug] Lang key not found: game:block-precipitate-dust-sparse
-11.11.2023 18:50:53.502 [VerboseDebug] Lang key not found: game:Add temporal gear to refuel
-11.11.2023 18:50:53.502 [VerboseDebug] Starting initialising handbook
-11.11.2023 18:50:53.567 [VerboseDebug] Lang key not found: game:Start Tutorial
-11.11.2023 18:50:53.571 [VerboseDebug] Lang key not found: game:loretype-
-11.11.2023 18:50:53.584 [VerboseDebug] Done creating handbook index GUI
-11.11.2023 18:50:53.585 [VerboseDebug] Done initialising handbook
-11.11.2023 18:50:53.590 [VerboseDebug] Done scanning for liquid containers 
-11.11.2023 18:50:53.612 [VerboseDebug] Done init huge gears
-11.11.2023 18:50:53.612 [VerboseDebug] Done wearable stats
-11.11.2023 18:50:53.626 [VerboseDebug] Done traders handbook stuff
-11.11.2023 18:50:53.627 [VerboseDebug] Done level finalize
-11.11.2023 18:50:53.862 [VerboseDebug] Lang key not found: game:item-creature-moose-male-adult
-11.11.2023 18:50:53.862 [VerboseDebug] Lang key not found: game:item-creature-moose-female-adult
-11.11.2023 18:50:53.863 [VerboseDebug] Lang key not found: game:item-creature-moose-male-baby
-11.11.2023 18:50:53.863 [VerboseDebug] Lang key not found: game:item-creature-moose-female-baby
-11.11.2023 18:52:05.241 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 18:52:05.241 [VerboseDebug] Received inventory contents hotbar-Dee.Covan@gmail.com
-11.11.2023 18:52:05.241 [VerboseDebug] Received inventory contents creative-Dee.Covan@gmail.com
-11.11.2023 18:52:05.241 [VerboseDebug] Received inventory contents backpack-Dee.Covan@gmail.com
-11.11.2023 18:52:05.241 [VerboseDebug] Received inventory contents ground-Dee.Covan@gmail.com
-11.11.2023 18:52:05.241 [VerboseDebug] Received inventory contents mouse-Dee.Covan@gmail.com
-11.11.2023 18:52:05.241 [VerboseDebug] Received inventory contents craftinggrid-Dee.Covan@gmail.com
-11.11.2023 18:52:05.243 [VerboseDebug] Received inventory contents character-Dee.Covan@gmail.com
-11.11.2023 18:52:05.244 [VerboseDebug] Done handling playerdata packet
-11.11.2023 18:52:05.246 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 18:52:05.246 [VerboseDebug] Done handling playerdata packet
-11.11.2023 18:52:54.933 [VerboseDebug] Back to game clicked
-11.11.2023 18:52:54.934 [VerboseDebug] Escape menu closed
-11.11.2023 18:53:01.074 [VerboseDebug] Lang key not found: game:Need help figuring out the game?
-Hold K to open the introductions menu.
-Hold L to discard this tip
-11.11.2023 18:53:15.584 [VerboseDebug] Lang key not found: game:Первые шаги
-11.11.2023 18:54:06.557 [VerboseDebug] Starting initialising handbook
-11.11.2023 18:54:06.567 [VerboseDebug] Lang key not found: game:Stop Tutorial
-11.11.2023 18:54:06.578 [VerboseDebug] Done creating handbook index GUI
-11.11.2023 18:54:07.343 [VerboseDebug] Starting initialising handbook
-11.11.2023 18:54:07.364 [VerboseDebug] Done creating handbook index GUI
-11.11.2023 18:54:12.254 [VerboseDebug] Back to game clicked
-11.11.2023 18:54:12.254 [VerboseDebug] Escape menu closed
-11.11.2023 18:54:15 [Debug] GuiScreenConnectingToServer constructed
-11.11.2023 18:54:16.509 [VerboseDebug] Left bottom main menu text is at 13/1027.6890625 w/h 300,44.310937499999994
-11.11.2023 18:54:18 [Debug] GuiScreenConnectingToServer constructed
-11.11.2023 18:54:22.470 [VerboseDebug] Received server assets packet; waiting on light levels packet before decoding.
-11.11.2023 18:54:22.489 [VerboseDebug] Handling ServerIdentification packet; requires remapping is False
-11.11.2023 18:54:22.489 [VerboseDebug] Received world meta data
-11.11.2023 18:54:22.523 [VerboseDebug] Received server assets
-11.11.2023 18:54:22.525 [VerboseDebug] [VSCreativeMod.dll] Check for mod systems in mod C:\Games\VintageStory\1.19.0-pre.5\Mods\VSCreativeMod.dll
-11.11.2023 18:54:22.528 [VerboseDebug] [VSCreativeMod.dll] Selected assembly C:\Games\VintageStory\1.19.0-pre.5\Mods\VSCreativeMod.dll
-11.11.2023 18:54:22.529 [VerboseDebug] [VSEssentials.dll] Check for mod systems in mod C:\Games\VintageStory\1.19.0-pre.5\Mods\VSEssentials.dll
-11.11.2023 18:54:22.535 [VerboseDebug] [VSEssentials.dll] Selected assembly C:\Games\VintageStory\1.19.0-pre.5\Mods\VSEssentials.dll
-11.11.2023 18:54:22.536 [VerboseDebug] [VSSurvivalMod.dll] Check for mod systems in mod C:\Games\VintageStory\1.19.0-pre.5\Mods\VSSurvivalMod.dll
-11.11.2023 18:54:22.547 [VerboseDebug] [VSSurvivalMod.dll] Selected assembly C:\Games\VintageStory\1.19.0-pre.5\Mods\VSSurvivalMod.dll
-11.11.2023 18:54:22.550 [VerboseDebug] 3 assemblies loaded
-11.11.2023 18:54:22.550 [VerboseDebug] Instantiate mod systems for game
-11.11.2023 18:54:22.550 [VerboseDebug] Instantiate mod systems for creative
-11.11.2023 18:54:22.550 [VerboseDebug] Instantiate mod systems for survival
-11.11.2023 18:54:22.550 [VerboseDebug] Single player game - starting mods on the client-side
-11.11.2023 18:54:22.551 [VerboseDebug] Server assets - done step 1, next steps off-thread
-11.11.2023 18:54:22.551 [VerboseDebug] Searching file system (including mods) for asset files
-11.11.2023 18:54:22.598 [VerboseDebug] Populated 440 EntityTypes from server
-11.11.2023 18:54:22.696 [VerboseDebug] Populated 3094 ItemTypes from server, highest ItemID is 3093
-11.11.2023 18:54:23.527 [VerboseDebug] Populated 9274 BlockTypes from server, highest BlockID is 9273
-11.11.2023 18:54:23.551 [VerboseDebug] Finished the search for asset files
-11.11.2023 18:54:23.581 [VerboseDebug] Loaded lang file: ru
-11.11.2023 18:54:23.584 [VerboseDebug] Patch file game:patches/playertemporalstability.json, patch 0: Unmet IsValue condition (true!=False)
-11.11.2023 18:54:23.584 [VerboseDebug] Patch file game:patches/playertemporalstability.json, patch 1: Unmet IsValue condition (true!=False)
-11.11.2023 18:54:23.584 [VerboseDebug] Patchloader finished
-11.11.2023 18:54:23.595 [VerboseDebug] All client-side assets loaded and patched; configs, shapes, textures and sounds are now available for loading
-11.11.2023 18:54:23.600 [VerboseDebug] Starting to load entity shapes
-11.11.2023 18:54:23.600 [VerboseDebug] Starting to load item shapes
-11.11.2023 18:54:23.600 [VerboseDebug] Entity shape loading starting ...
-11.11.2023 18:54:23.600 [VerboseDebug] Starting to load block shapes
-11.11.2023 18:54:23.603 [VerboseDebug] [LoadShapes] Searched through items...
-11.11.2023 18:54:23.625 [VerboseDebug] Resolved blocks and items stacks and drops
-11.11.2023 18:54:23.625 [VerboseDebug] [LoadShapes] Searching through blocks...
-11.11.2023 18:54:23.836 [VerboseDebug] [LoadShapes] Searched through 9274 blocks
-11.11.2023 18:54:24.021 [VerboseDebug] Entity shape loading completed
-11.11.2023 18:54:24.032 [VerboseDebug] [LoadShapes] Starting to parse block shapes...
-11.11.2023 18:54:24.032 [VerboseDebug] [LoadShapes] loaded 1 block shapes in obj and gltf formats
-11.11.2023 18:54:24.043 [VerboseDebug] Loaded 23 ColorMap textures
-11.11.2023 18:54:24.043 [VerboseDebug] Loadsounds, found 440 sounds
-11.11.2023 18:54:24.299 [VerboseDebug] Server assets - composing entity texture atlas on main thread
-11.11.2023 18:54:24.314 [VerboseDebug] Server assets - done entity textures composition
-11.11.2023 18:54:24.319 [VerboseDebug] Server assets - done entity textures random and average color collection
-11.11.2023 18:54:24.366 [VerboseDebug] Server assets - done entity textures mipmap creation
-11.11.2023 18:54:24.449 [VerboseDebug] [LoadShapes] parsed 697 shapes from JSON for items
-11.11.2023 18:54:24.538 [VerboseDebug] [LoadShapes] parsed 580 shapes from JSON (2nd block loading thread)
-11.11.2023 18:54:24.538 [VerboseDebug] [LoadShapes] parsed 553 shapes from JSON for 9274 blocks, some others done offthread
-11.11.2023 18:54:24.539 [VerboseDebug] BlockTextureAtlas start collecting textures (already holds 23 colormap textures)
-11.11.2023 18:54:24.798 [VerboseDebug] Server assets - composing item texture atlas on main thread
-11.11.2023 18:54:24.815 [VerboseDebug] Server assets - done item textures composition
-11.11.2023 18:54:24.830 [VerboseDebug] Server assets - done item textures random and average color collection
-11.11.2023 18:54:24.863 [VerboseDebug] Server assets - done item textures mipmap creation
-11.11.2023 18:54:24.863 [VerboseDebug] --- Server started ---
-11.11.2023 18:54:25.292 [VerboseDebug] Server assets - done item tesselation spread over 6 frames
-11.11.2023 18:54:25.695 [VerboseDebug] Starting to load sounds fully
-11.11.2023 18:54:25.700 [VerboseDebug] Server assets - composing block texture atlas on main thread
-11.11.2023 18:54:25.710 [VerboseDebug] Server assets - done block textures composition
-11.11.2023 18:54:25.718 [VerboseDebug] Server assets - done block textures random and average color collection
-11.11.2023 18:54:25.753 [VerboseDebug] Server assets - done block textures mipmap creation
-11.11.2023 18:54:25.753 [VerboseDebug] Server assets - done step 9
-11.11.2023 18:54:25 [Debug] Opening socket to server...
-11.11.2023 18:54:25.816 [VerboseDebug] Server assets - done texture atlas frame buffer
-11.11.2023 18:54:25 [Debug] Ident packet sent.
-11.11.2023 18:54:26.037 [VerboseDebug] Handling ServerReady packet
-11.11.2023 18:54:26.037 [VerboseDebug] Starting system: Core
-11.11.2023 18:54:26.037 [VerboseDebug] Starting system: EntityPartitioning
-11.11.2023 18:54:26.037 [VerboseDebug] Starting system: ErrorReporter
-11.11.2023 18:54:26.037 [VerboseDebug] Starting system: ModSystemControlPoints
-11.11.2023 18:54:26.037 [VerboseDebug] Starting system: Core
-11.11.2023 18:54:26.037 [VerboseDebug] Starting system: SurvivalCoreSystem
-11.11.2023 18:54:26.049 [VerboseDebug] Starting system: ModCompatiblityUtil
-11.11.2023 18:54:26.049 [VerboseDebug] Starting system: ModJsonPatchLoader
-11.11.2023 18:54:26.049 [VerboseDebug] Starting system: ModSystemDormancyStateChecker
-11.11.2023 18:54:26.049 [VerboseDebug] Starting system: ModSystemItemRendererOptimizer
-11.11.2023 18:54:26.049 [VerboseDebug] Starting system: FallingBlockParticlesModSystem
-11.11.2023 18:54:26.049 [VerboseDebug] Starting system: CharacterExtraDialogs
-11.11.2023 18:54:26.049 [VerboseDebug] Starting system: EntityNameTagRendererRegistry
-11.11.2023 18:54:26.049 [VerboseDebug] Starting system: POIRegistry
-11.11.2023 18:54:26.049 [VerboseDebug] Starting system: RoomRegistry
-11.11.2023 18:54:26.049 [VerboseDebug] Starting system: WeatherSystemCommands
-11.11.2023 18:54:26.049 [VerboseDebug] Starting system: WeatherSystemClient
-11.11.2023 18:54:26.053 [VerboseDebug] Starting system: WorldMapManager
-11.11.2023 18:54:26.053 [VerboseDebug] Starting system: WorldEdit
-11.11.2023 18:54:26.053 [VerboseDebug] Starting system: ModSystemBossHealthBars
-11.11.2023 18:54:26.053 [VerboseDebug] Starting system: DebugSystem
-11.11.2023 18:54:26.053 [VerboseDebug] Starting system: UpgradeTasks
-11.11.2023 18:54:26.053 [VerboseDebug] Starting system: ModSystemDetailModeSync
-11.11.2023 18:54:26.053 [VerboseDebug] Starting system: ModSystemTiledDungeonGenerator
-11.11.2023 18:54:26.053 [VerboseDebug] Starting system: GenFromHeightmap
-11.11.2023 18:54:26.053 [VerboseDebug] Starting system: GenMaps
-11.11.2023 18:54:26.053 [VerboseDebug] Starting system: MyceliumSystem
-11.11.2023 18:54:26.053 [VerboseDebug] Starting system: ModSystemCatchCreature
-11.11.2023 18:54:26.053 [VerboseDebug] Starting system: ModSystemGliding
-11.11.2023 18:54:26.053 [VerboseDebug] Starting system: ModSystemMeasuringRope
-11.11.2023 18:54:26.053 [VerboseDebug] Starting system: ScreenshakeToClientModSystem
-11.11.2023 18:54:26.053 [VerboseDebug] Starting system: ResoArchivesSpawnConditions
-11.11.2023 18:54:26.053 [VerboseDebug] Starting system: ModSystemAuction
-11.11.2023 18:54:26.053 [VerboseDebug] Starting system: ModSystemBlockReinforcement
-11.11.2023 18:54:26.053 [VerboseDebug] Starting system: Core
-11.11.2023 18:54:26.053 [VerboseDebug] Starting system: ModSystemBoatingSound
-11.11.2023 18:54:26.053 [VerboseDebug] Starting system: CharacterSystem
-11.11.2023 18:54:26.053 [VerboseDebug] Starting system: MealMeshCache
-11.11.2023 18:54:26.053 [VerboseDebug] Starting system: DialogueSystem
-11.11.2023 18:54:26.053 [VerboseDebug] Starting system: FruitingSystem
-11.11.2023 18:54:26.053 [VerboseDebug] Starting system: ModSystemCommandHandbook
-11.11.2023 18:54:26.053 [VerboseDebug] Starting system: ModSystemSurvivalHandbook
-11.11.2023 18:54:26.195 [VerboseDebug] Starting system: ModSystemTutorial
-11.11.2023 18:54:26.195 [VerboseDebug] Starting system: ModSystemNightVision
-11.11.2023 18:54:26.195 [VerboseDebug] Starting system: ModJournal
-11.11.2023 18:54:26.195 [VerboseDebug] Starting system: LiquidItemStackRenderer
-11.11.2023 18:54:26.195 [VerboseDebug] Starting system: ModSystemStructureLocator
-11.11.2023 18:54:26.195 [VerboseDebug] Starting system: ModLootRandomizer
-11.11.2023 18:54:26.195 [VerboseDebug] Starting system: MicroBlockModelCache
-11.11.2023 18:54:26.195 [VerboseDebug] Starting system: ModSystemRifts
-11.11.2023 18:54:26.199 [VerboseDebug] Starting system: ModSystemRiftWeather
-11.11.2023 18:54:26.199 [VerboseDebug] Starting system: ModSleeping
-11.11.2023 18:54:26.200 [VerboseDebug] Starting system: ModSystemSupportBeamPlacer
-11.11.2023 18:54:26.200 [VerboseDebug] Starting system: TeleporterManager
-11.11.2023 18:54:26.200 [VerboseDebug] Starting system: ModTemperature
-11.11.2023 18:54:26.200 [VerboseDebug] Starting system: SystemTemporalStability
-11.11.2023 18:54:26.200 [VerboseDebug] Starting system: TemporalStabilityEffects
-11.11.2023 18:54:26.201 [VerboseDebug] Starting system: ModSystemWearableStats
-11.11.2023 18:54:26.201 [VerboseDebug] Starting system: ModSystemEditableBook
-11.11.2023 18:54:26.201 [VerboseDebug] Starting system: MechanicalPowerMod
-11.11.2023 18:54:26.201 [VerboseDebug] Starting system: TradeHandbookInfo
-11.11.2023 18:54:26.201 [VerboseDebug] Starting system: LoadColorMaps
-11.11.2023 18:54:26.201 [VerboseDebug] Starting system: ClothManager
-11.11.2023 18:54:26.201 [VerboseDebug] Starting system: RecipeRegistrySystem
-11.11.2023 18:54:26.201 [VerboseDebug] Starting system: ModSystemOreMap
-11.11.2023 18:54:26.201 [VerboseDebug] Starting system: TraderOutfits
-11.11.2023 18:54:26.317 [VerboseDebug] Sending request to join server
-11.11.2023 18:54:26.692 [VerboseDebug] World configs received and block tesselation complete
-11.11.2023 18:54:26.730 [VerboseDebug] Trigger mod event OnBlockTexturesLoaded
-11.11.2023 18:54:26.750 [VerboseDebug] Loading sound file may stutter game:sounds/environment/underwater.ogg
-11.11.2023 18:54:26.817 [VerboseDebug] Server assets - done block tesselation
-11.11.2023 18:54:26.833 [VerboseDebug] Slow to load clientSystem plso
-11.11.2023 18:54:26.870 [VerboseDebug] Done client systems OnLoaded
-11.11.2023 18:54:26.991 [VerboseDebug] Slow to load blocks (>1ms) game:fruittree-stem,game:fruittree-branch,game:fruittree-cutting,game:fruittree-foliage
-11.11.2023 18:54:27.059 [VerboseDebug] Done blocks OnLoaded
-11.11.2023 18:54:27.138 [VerboseDebug] Slow to load items (>1ms) game:shield-crude,game:shield-woodmetal,game:shield-woodmetalleather,game:shield-metal
-11.11.2023 18:54:27.151 [VerboseDebug] Done items OnLoaded
-11.11.2023 18:54:27.174 [VerboseDebug] All clientside asset loading complete, game launch can proceed
-11.11.2023 18:54:27.191 [VerboseDebug] Loading sound file may stutter game:sounds/voice/saxophone.ogg
-11.11.2023 18:54:27.216 [VerboseDebug] Starting initialising handbook
-11.11.2023 18:54:27.227 [VerboseDebug] Done creating handbook index GUI
-11.11.2023 18:54:27.227 [VerboseDebug] Done initialising handbook
-11.11.2023 18:54:27.227 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 18:54:27.227 [VerboseDebug] Received inventory contents hotbar-Dee.Covan@gmail.com
-11.11.2023 18:54:27.227 [VerboseDebug] Received inventory contents creative-Dee.Covan@gmail.com
-11.11.2023 18:54:27.238 [VerboseDebug] Received inventory contents backpack-Dee.Covan@gmail.com
-11.11.2023 18:54:27.238 [VerboseDebug] Received inventory contents ground-Dee.Covan@gmail.com
-11.11.2023 18:54:27.238 [VerboseDebug] Received inventory contents mouse-Dee.Covan@gmail.com
-11.11.2023 18:54:27.238 [VerboseDebug] Received inventory contents craftinggrid-Dee.Covan@gmail.com
-11.11.2023 18:54:27.240 [VerboseDebug] Received inventory contents character-Dee.Covan@gmail.com
-11.11.2023 18:54:27.240 [VerboseDebug] Informing clientsystems playerdata received
-11.11.2023 18:54:27.249 [VerboseDebug] GuiDialogInventory: starting composeGUI
-11.11.2023 18:54:27.255 [VerboseDebug] GuiDialogInventory: done composeGUI
-11.11.2023 18:54:27.270 [VerboseDebug] Done handling playerdata packet
-11.11.2023 18:54:27.270 [VerboseDebug] Received level finalize
-11.11.2023 18:54:27.270 [VerboseDebug] Handling LevelFinalize packet; requires remapping is False
-11.11.2023 18:54:27.276 [VerboseDebug] Done level finalize clientsystems
-11.11.2023 18:54:27.276 [VerboseDebug] Loading sound file may stutter game:sounds/weather/tracks/verylowtremble.ogg
-11.11.2023 18:54:27.316 [VerboseDebug] Loading sound file may stutter game:sounds/weather/tracks/rain-leafy.ogg
-11.11.2023 18:54:27.371 [VerboseDebug] Loading sound file may stutter game:sounds/weather/wind-leafy.ogg
-11.11.2023 18:54:27.415 [VerboseDebug] Loading sound file may stutter game:sounds/weather/wind-leafless.ogg
-11.11.2023 18:54:27.481 [VerboseDebug] Done init WeatherSystemClient
-11.11.2023 18:54:27.528 [VerboseDebug] Loading sound file may stutter game:sounds/raft-moving.ogg
-11.11.2023 18:54:27.672 [VerboseDebug] Loading sound file may stutter game:sounds/raft-idle.ogg
-11.11.2023 18:54:27.831 [VerboseDebug] Loaded highest priority sound assets
-11.11.2023 18:54:27.860 [VerboseDebug] Starting initialising handbook
-11.11.2023 18:54:27.908 [VerboseDebug] Done creating handbook index GUI
-11.11.2023 18:54:27.908 [VerboseDebug] Done initialising handbook
-11.11.2023 18:54:27.912 [VerboseDebug] Done scanning for liquid containers 
-11.11.2023 18:54:27.925 [VerboseDebug] Done init huge gears
-11.11.2023 18:54:27.925 [VerboseDebug] Done wearable stats
-11.11.2023 18:54:27.934 [VerboseDebug] Done traders handbook stuff
-11.11.2023 18:54:27.934 [VerboseDebug] Done level finalize
-11.11.2023 18:55:03.717 [VerboseDebug] Back to game clicked
-11.11.2023 18:55:03.718 [VerboseDebug] Escape menu closed
-11.11.2023 18:55:58.104 [VerboseDebug] Starting initialising handbook
-11.11.2023 18:55:58.124 [VerboseDebug] Done creating handbook index GUI
-11.11.2023 18:55:59.781 [VerboseDebug] Starting initialising handbook
-11.11.2023 18:55:59.802 [VerboseDebug] Done creating handbook index GUI
-11.11.2023 18:56:02.058 [VerboseDebug] Back to game clicked
-11.11.2023 18:56:02.058 [VerboseDebug] Escape menu closed
-11.11.2023 18:56:27.976 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 18:56:31.869 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 18:56:37.008 [VerboseDebug] Lang key not found: game:wpSuggestion-apple-#F9D0DC
-11.11.2023 18:56:37.008 [VerboseDebug] Lang key not found: game:wpSuggestion-apple
-11.11.2023 18:56:37.858 [VerboseDebug] Lang key not found: game:wpSuggestion-apple-#03D941
-11.11.2023 18:56:44.034 [VerboseDebug] Lang key not found: game:wpSuggestion-circle-#03D941
-11.11.2023 18:56:44.035 [VerboseDebug] Lang key not found: game:wpSuggestion-circle
-11.11.2023 18:56:53.725 [VerboseDebug] Lang key not found: game:Путевая точка № 0 добавлена
-11.11.2023 18:57:33.445 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 18:57:35.107 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 18:57:55.584 [VerboseDebug] Lang key not found: game:wpSuggestion-propick-#F9D0DC
-11.11.2023 18:57:55.584 [VerboseDebug] Lang key not found: game:wpSuggestion-propick
-11.11.2023 18:57:56.323 [VerboseDebug] Lang key not found: game:wpSuggestion-pick-#F9D0DC
-11.11.2023 18:57:58.684 [VerboseDebug] Lang key not found: game:wpSuggestion-pick-#C8772E
-11.11.2023 18:58:09.707 [VerboseDebug] Lang key not found: game:Путевая точка № 1 добавлена
-11.11.2023 18:58:17.946 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 18:58:17.946 [VerboseDebug] Done handling playerdata packet
-11.11.2023 18:58:26.477 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 19:01:24.067 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:01:24.067 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:03:24.422 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:03:24.422 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:04:16.217 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 19:04:27.568 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:04:27.568 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:05:18.225 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 19:05:30.884 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:05:30.884 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:05:39.370 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 19:05:50.294 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 19:06:31.203 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:06:31.203 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:06:33.805 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 19:06:42.669 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 19:07:01.732 [VerboseDebug] Lang key not found: game:Путевая точка удалена
-11.11.2023 19:07:11.590 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 19:07:31.520 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:07:31.521 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:07:45.162 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 19:07:49.422 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 19:08:09.852 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 19:08:10.387 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 19:08:29.172 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 19:08:31.891 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:08:31.891 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:08:46.805 [VerboseDebug] Lang key not found: game:wpSuggestion-ladder-#F9D0DC
-11.11.2023 19:08:49.022 [VerboseDebug] Lang key not found: game:wpSuggestion-ladder-#AFAAA8
-11.11.2023 19:08:51.221 [VerboseDebug] Lang key not found: game:Путевая точка № 2 добавлена
-11.11.2023 19:09:03.259 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 19:09:06.818 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 19:09:15.031 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 19:09:19.657 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 19:09:36.572 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:09:36.573 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:10:18.544 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 19:10:50.423 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 19:10:55.701 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 19:11:05.501 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 19:11:36.591 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:11:36.592 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:11:55.771 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 19:12:36.884 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:12:36.884 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:13:37.119 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:13:37.119 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:13:55.698 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:13:55.698 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:13:57.100 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:13:57.100 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:13:58.682 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:13:58.683 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:14:16.275 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 19:14:37.340 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:14:37.340 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:15:40.585 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:15:40.586 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:16:40.822 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:16:40.822 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:17:41.224 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:17:41.225 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:18:41.703 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:18:41.703 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:21:43.117 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:21:43.117 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:34:18.978 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:34:18.979 [VerboseDebug] Received inventory contents hotbar-Dee.Covan@gmail.com
-11.11.2023 19:34:18.979 [VerboseDebug] Received inventory contents creative-Dee.Covan@gmail.com
-11.11.2023 19:34:18.979 [VerboseDebug] Received inventory contents backpack-Dee.Covan@gmail.com
-11.11.2023 19:34:18.979 [VerboseDebug] Received inventory contents ground-Dee.Covan@gmail.com
-11.11.2023 19:34:18.979 [VerboseDebug] Received inventory contents mouse-Dee.Covan@gmail.com
-11.11.2023 19:34:18.979 [VerboseDebug] Received inventory contents craftinggrid-Dee.Covan@gmail.com
-11.11.2023 19:34:18.980 [VerboseDebug] Received inventory contents character-Dee.Covan@gmail.com
-11.11.2023 19:34:18.980 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:34:20.125 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:34:20.125 [VerboseDebug] Received inventory contents hotbar-Dee.Covan@gmail.com
-11.11.2023 19:34:20.125 [VerboseDebug] Received inventory contents creative-Dee.Covan@gmail.com
-11.11.2023 19:34:20.125 [VerboseDebug] Received inventory contents backpack-Dee.Covan@gmail.com
-11.11.2023 19:34:20.125 [VerboseDebug] Received inventory contents ground-Dee.Covan@gmail.com
-11.11.2023 19:34:20.125 [VerboseDebug] Received inventory contents mouse-Dee.Covan@gmail.com
-11.11.2023 19:34:20.125 [VerboseDebug] Received inventory contents craftinggrid-Dee.Covan@gmail.com
-11.11.2023 19:34:20.127 [VerboseDebug] Received inventory contents character-Dee.Covan@gmail.com
-11.11.2023 19:34:20.127 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:34:39.626 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:34:39.626 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:35:40.120 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:35:40.120 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:36:40.488 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:36:40.488 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:38:55.651 [VerboseDebug] Back to game clicked
-11.11.2023 19:38:55.651 [VerboseDebug] Escape menu closed
-11.11.2023 19:39:31.658 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:39:31.658 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:41:38.052 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:41:38.052 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:42:41.296 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:42:41.296 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:43:44.456 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:43:44.456 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:44:44.634 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:44:44.634 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:45:47.905 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:45:47.905 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:46:51.193 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:46:51.193 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:47:54.500 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:47:54.500 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:51:04.156 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:51:04.156 [VerboseDebug] Done handling playerdata packet
-11.11.2023 19:52:07.364 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 19:52:07.364 [VerboseDebug] Done handling playerdata packet
-11.11.2023 20:01:23.966 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 20:01:23.966 [VerboseDebug] Done handling playerdata packet
-11.11.2023 20:01:23.966 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 20:01:23.966 [VerboseDebug] Done handling playerdata packet
-11.11.2023 20:01:25.023 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 20:01:25.023 [VerboseDebug] Done handling playerdata packet
-11.11.2023 20:01:27.356 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 20:01:27.356 [VerboseDebug] Done handling playerdata packet
-11.11.2023 20:01:27.356 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 20:01:27.356 [VerboseDebug] Done handling playerdata packet
-11.11.2023 20:01:30.200 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 20:01:30.200 [VerboseDebug] Done handling playerdata packet
-11.11.2023 20:01:30.200 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 20:01:30.200 [VerboseDebug] Done handling playerdata packet
-11.11.2023 20:01:35.161 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 20:01:35.161 [VerboseDebug] Done handling playerdata packet
-11.11.2023 20:01:35.162 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 20:01:35.162 [VerboseDebug] Done handling playerdata packet
-11.11.2023 20:02:55.190 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 20:02:55.190 [VerboseDebug] Done handling playerdata packet
-11.11.2023 20:03:12.326 [VerboseDebug] Lang key not found: game:wpSuggestion-home-#F9D0DC
-11.11.2023 20:03:13.478 [VerboseDebug] Lang key not found: game:wpSuggestion-home-#FFFFFF
-11.11.2023 20:03:15.642 [VerboseDebug] Lang key not found: game:Путевая точка № 3 добавлена
-11.11.2023 20:03:41.159 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 20:03:42.434 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 20:03:46.463 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 20:03:55.511 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 20:03:55.511 [VerboseDebug] Done handling playerdata packet
-11.11.2023 20:04:17.265 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 20:04:20.329 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 20:04:23.507 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 20:04:40.118 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 20:04:56.004 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 20:04:56.004 [VerboseDebug] Done handling playerdata packet
-11.11.2023 20:07:02.483 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 20:07:02.483 [VerboseDebug] Done handling playerdata packet
-11.11.2023 20:07:14.575 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 20:08:02.790 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 20:08:02.790 [VerboseDebug] Done handling playerdata packet
-11.11.2023 20:09:03.137 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 20:09:03.137 [VerboseDebug] Done handling playerdata packet
-11.11.2023 20:09:06.547 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 20:09:14.122 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 20:09:21.400 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 20:09:25.944 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 20:09:26.161 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 20:09:26.802 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 20:09:34.595 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 20:10:03.587 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 20:10:03.587 [VerboseDebug] Done handling playerdata packet
-11.11.2023 20:10:04.757 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 20:11:06.861 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 20:11:06.861 [VerboseDebug] Done handling playerdata packet
-11.11.2023 20:11:31.951 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 20:11:37.833 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 20:12:38.667 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 20:17:15.233 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 20:17:15.233 [VerboseDebug] Done handling playerdata packet
-11.11.2023 20:20:31.957 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 20:20:31.957 [VerboseDebug] Done handling playerdata packet
-11.11.2023 20:21:32.422 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 20:21:32.422 [VerboseDebug] Done handling playerdata packet
-11.11.2023 20:22:11.767 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 20:22:32.934 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 20:22:32.934 [VerboseDebug] Done handling playerdata packet
-11.11.2023 20:22:37.084 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 20:22:39.385 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 20:23:00.050 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 20:23:13.818 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 20:23:18.851 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 20:23:19.063 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 20:23:33.350 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 20:23:33.350 [VerboseDebug] Done handling playerdata packet
-11.11.2023 20:24:07.035 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
-11.11.2023 20:24:33.703 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
-11.11.2023 20:24:33.703 [VerboseDebug] Done handling playerdata packet
-11.11.2023 20:32:03 [Debug] GuiScreenConnectingToServer constructed
-11.11.2023 20:32:03 [Debug] After gamewindow.Run()
+12.11.2023 01:15:06 [Debug] Creating game window with window mode Fullscreen
+12.11.2023 01:15:07.019 [VerboseDebug] Loadsounds, found 46 sounds
+12.11.2023 01:15:07.214 [VerboseDebug] [VSCreativeMod.dll] Check for mod systems in mod C:\Games\VintageStory\1.19.0-pre.5\Mods\VSCreativeMod.dll
+12.11.2023 01:15:07.246 [VerboseDebug] [VSCreativeMod.dll] Selected assembly C:\Games\VintageStory\1.19.0-pre.5\Mods\VSCreativeMod.dll
+12.11.2023 01:15:07.266 [VerboseDebug] [VSEssentials.dll] Check for mod systems in mod C:\Games\VintageStory\1.19.0-pre.5\Mods\VSEssentials.dll
+12.11.2023 01:15:07.270 [VerboseDebug] [VSEssentials.dll] Selected assembly C:\Games\VintageStory\1.19.0-pre.5\Mods\VSEssentials.dll
+12.11.2023 01:15:07.272 [VerboseDebug] [VSSurvivalMod.dll] Check for mod systems in mod C:\Games\VintageStory\1.19.0-pre.5\Mods\VSSurvivalMod.dll
+12.11.2023 01:15:07.285 [VerboseDebug] [VSSurvivalMod.dll] Selected assembly C:\Games\VintageStory\1.19.0-pre.5\Mods\VSSurvivalMod.dll
+12.11.2023 01:15:07.373 [VerboseDebug] Left bottom main menu text is at 13/1027.6890625 w/h 300,44.310937499999994
+12.11.2023 01:15:09.337 [VerboseDebug] Lang key not found: game:All other configurations are default values
+12.11.2023 01:15:09.353 [VerboseDebug] Lang key not found: game:No custom configurations
+12.11.2023 01:15:14 [Debug] GuiScreenConnectingToServer constructed
+12.11.2023 01:15:18.924 [VerboseDebug] Received server assets packet; waiting on light levels packet before decoding.
+12.11.2023 01:15:18.946 [VerboseDebug] Handling ServerIdentification packet; requires remapping is False
+12.11.2023 01:15:18.947 [VerboseDebug] Received world meta data
+12.11.2023 01:15:18.971 [VerboseDebug] Received server assets
+12.11.2023 01:15:18.972 [VerboseDebug] [VSCreativeMod.dll] Check for mod systems in mod C:\Games\VintageStory\1.19.0-pre.5\Mods\VSCreativeMod.dll
+12.11.2023 01:15:18.976 [VerboseDebug] [VSCreativeMod.dll] Selected assembly C:\Games\VintageStory\1.19.0-pre.5\Mods\VSCreativeMod.dll
+12.11.2023 01:15:18.977 [VerboseDebug] [VSEssentials.dll] Check for mod systems in mod C:\Games\VintageStory\1.19.0-pre.5\Mods\VSEssentials.dll
+12.11.2023 01:15:18.982 [VerboseDebug] [VSEssentials.dll] Selected assembly C:\Games\VintageStory\1.19.0-pre.5\Mods\VSEssentials.dll
+12.11.2023 01:15:18.984 [VerboseDebug] [VSSurvivalMod.dll] Check for mod systems in mod C:\Games\VintageStory\1.19.0-pre.5\Mods\VSSurvivalMod.dll
+12.11.2023 01:15:18.990 [VerboseDebug] [VSSurvivalMod.dll] Selected assembly C:\Games\VintageStory\1.19.0-pre.5\Mods\VSSurvivalMod.dll
+12.11.2023 01:15:18.992 [VerboseDebug] 3 assemblies loaded
+12.11.2023 01:15:18.992 [VerboseDebug] Instantiate mod systems for game
+12.11.2023 01:15:18.993 [VerboseDebug] Instantiate mod systems for creative
+12.11.2023 01:15:18.993 [VerboseDebug] Instantiate mod systems for survival
+12.11.2023 01:15:18.993 [VerboseDebug] Single player game - starting mods on the client-side
+12.11.2023 01:15:19.008 [VerboseDebug] Server assets - done step 1, next steps off-thread
+12.11.2023 01:15:19.009 [VerboseDebug] Searching file system (including mods) for asset files
+12.11.2023 01:15:19.049 [VerboseDebug] Populated 440 EntityTypes from server
+12.11.2023 01:15:19.143 [VerboseDebug] Populated 3094 ItemTypes from server, highest ItemID is 3093
+12.11.2023 01:15:19.304 [VerboseDebug] Finished the search for asset files
+12.11.2023 01:15:19.339 [VerboseDebug] Loaded lang file: ru
+12.11.2023 01:15:19.355 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 0: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+12.11.2023 01:15:19.355 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 1: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+12.11.2023 01:15:19.355 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 2: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+12.11.2023 01:15:19.355 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 3: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+12.11.2023 01:15:19.355 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 4: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+12.11.2023 01:15:19.355 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 5: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+12.11.2023 01:15:19.355 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 6: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+12.11.2023 01:15:19.355 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 7: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+12.11.2023 01:15:19.355 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 8: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+12.11.2023 01:15:19.355 [VerboseDebug] Patch file game:patches/fallingblocks.json, patch 9: Unmet IsValue condition (sandgravelsoil!=sandgravel)
+12.11.2023 01:15:19.356 [VerboseDebug] Patch file game:patches/homosapiens.json, patch 0: Unmet IsValue condition (false!=True)
+12.11.2023 01:15:19.356 [VerboseDebug] Patch file game:patches/homosapiens.json, patch 1: Unmet IsValue condition (false!=True)
+12.11.2023 01:15:19.356 [VerboseDebug] Patch file game:patches/homosapiens.json, patch 2: Unmet IsValue condition (false!=True)
+12.11.2023 01:15:19.356 [VerboseDebug] Patch file game:patches/homosapiens.json, patch 3: Unmet IsValue condition (false!=True)
+12.11.2023 01:15:19.356 [VerboseDebug] Patch file game:patches/homosapiens.json, patch 4: Unmet IsValue condition (false!=True)
+12.11.2023 01:15:19.356 [VerboseDebug] Patch file game:patches/homosapiens.json, patch 5: Unmet IsValue condition (false!=True)
+12.11.2023 01:15:19.356 [VerboseDebug] Patch file game:patches/homosapiens.json, patch 6: Unmet IsValue condition (false!=True)
+12.11.2023 01:15:19.356 [VerboseDebug] Patch file game:patches/playertemporalstability.json, patch 0: Unmet IsValue condition (true!=False)
+12.11.2023 01:15:19.356 [VerboseDebug] Patch file game:patches/playertemporalstability.json, patch 1: Unmet IsValue condition (true!=False)
+12.11.2023 01:15:19.356 [VerboseDebug] Patchloader finished
+12.11.2023 01:15:19.362 [VerboseDebug] All client-side assets loaded and patched; configs, shapes, textures and sounds are now available for loading
+12.11.2023 01:15:19.364 [VerboseDebug] Starting to load entity shapes
+12.11.2023 01:15:19.364 [VerboseDebug] Starting to load item shapes
+12.11.2023 01:15:19.373 [VerboseDebug] Entity shape loading starting ...
+12.11.2023 01:15:19.376 [VerboseDebug] [LoadShapes] Searched through items...
+12.11.2023 01:15:19.711 [VerboseDebug] Populated 9274 BlockTypes from server, highest BlockID is 9273
+12.11.2023 01:15:19.711 [VerboseDebug] Starting to load block shapes
+12.11.2023 01:15:19.733 [VerboseDebug] Resolved blocks and items stacks and drops
+12.11.2023 01:15:19.734 [VerboseDebug] [LoadShapes] Searching through blocks...
+12.11.2023 01:15:19.922 [VerboseDebug] Entity shape loading completed
+12.11.2023 01:15:19.936 [VerboseDebug] Loaded 23 ColorMap textures
+12.11.2023 01:15:19.936 [VerboseDebug] Loadsounds, found 440 sounds
+12.11.2023 01:15:20.037 [VerboseDebug] [LoadShapes] Searched through 9274 blocks
+12.11.2023 01:15:20.037 [VerboseDebug] [LoadShapes] Starting to parse block shapes...
+12.11.2023 01:15:20.038 [VerboseDebug] [LoadShapes] loaded 1 block shapes in obj and gltf formats
+12.11.2023 01:15:20.160 [VerboseDebug] Server assets - composing entity texture atlas on main thread
+12.11.2023 01:15:20.177 [VerboseDebug] Server assets - done entity textures composition
+12.11.2023 01:15:20.183 [VerboseDebug] Server assets - done entity textures mipmap creation
+12.11.2023 01:15:20.186 [VerboseDebug] Server assets - done entity textures random and average color collection
+12.11.2023 01:15:20.282 [VerboseDebug] [LoadShapes] parsed 697 shapes from JSON for items
+12.11.2023 01:15:20.580 [VerboseDebug] [LoadShapes] parsed 567 shapes from JSON for 9274 blocks, some others done offthread
+12.11.2023 01:15:20.582 [VerboseDebug] [LoadShapes] parsed 566 shapes from JSON (2nd block loading thread)
+12.11.2023 01:15:20.592 [VerboseDebug] BlockTextureAtlas start collecting textures (already holds 23 colormap textures)
+12.11.2023 01:15:20.664 [VerboseDebug] Server assets - composing item texture atlas on main thread
+12.11.2023 01:15:20.687 [VerboseDebug] Server assets - done item textures composition
+12.11.2023 01:15:20.688 [VerboseDebug] Server assets - done item textures mipmap creation
+12.11.2023 01:15:20.695 [VerboseDebug] Server assets - done item textures random and average color collection
+12.11.2023 01:15:21.499 [VerboseDebug] Server assets - done item tesselation spread over 12 frames
+12.11.2023 01:15:21.702 [VerboseDebug] --- Server started ---
+12.11.2023 01:15:22.018 [VerboseDebug] Starting to load sounds fully
+12.11.2023 01:15:22.025 [VerboseDebug] Server assets - composing block texture atlas on main thread
+12.11.2023 01:15:22.036 [VerboseDebug] Server assets - done block textures composition
+12.11.2023 01:15:22.042 [VerboseDebug] Server assets - done block textures mipmap creation
+12.11.2023 01:15:22.048 [VerboseDebug] Server assets - done block textures random and average color collection
+12.11.2023 01:15:22.060 [VerboseDebug] Server assets - done step 9
+12.11.2023 01:15:22 [Debug] Opening socket to server...
+12.11.2023 01:15:22.130 [VerboseDebug] Server assets - done texture atlas frame buffer
+12.11.2023 01:15:22 [Debug] Ident packet sent.
+12.11.2023 01:15:22.345 [VerboseDebug] Handling ServerReady packet
+12.11.2023 01:15:22.345 [VerboseDebug] Starting system: Core
+12.11.2023 01:15:22.346 [VerboseDebug] Starting system: EntityPartitioning
+12.11.2023 01:15:22.346 [VerboseDebug] Starting system: ErrorReporter
+12.11.2023 01:15:22.346 [VerboseDebug] Starting system: ModSystemControlPoints
+12.11.2023 01:15:22.346 [VerboseDebug] Starting system: Core
+12.11.2023 01:15:22.346 [VerboseDebug] Starting system: SurvivalCoreSystem
+12.11.2023 01:15:22.352 [VerboseDebug] Starting system: ModCompatiblityUtil
+12.11.2023 01:15:22.352 [VerboseDebug] Starting system: ModJsonPatchLoader
+12.11.2023 01:15:22.352 [VerboseDebug] Starting system: ModSystemDormancyStateChecker
+12.11.2023 01:15:22.352 [VerboseDebug] Starting system: ModSystemItemRendererOptimizer
+12.11.2023 01:15:22.352 [VerboseDebug] Starting system: FallingBlockParticlesModSystem
+12.11.2023 01:15:22.353 [VerboseDebug] Starting system: CharacterExtraDialogs
+12.11.2023 01:15:22.353 [VerboseDebug] Starting system: EntityNameTagRendererRegistry
+12.11.2023 01:15:22.353 [VerboseDebug] Starting system: POIRegistry
+12.11.2023 01:15:22.353 [VerboseDebug] Starting system: RoomRegistry
+12.11.2023 01:15:22.353 [VerboseDebug] Starting system: WeatherSystemCommands
+12.11.2023 01:15:22.353 [VerboseDebug] Starting system: WeatherSystemClient
+12.11.2023 01:15:22.364 [VerboseDebug] Starting system: WorldMapManager
+12.11.2023 01:15:22.367 [VerboseDebug] Starting system: WorldEdit
+12.11.2023 01:15:22.371 [VerboseDebug] Starting system: ModSystemBossHealthBars
+12.11.2023 01:15:22.371 [VerboseDebug] Starting system: DebugSystem
+12.11.2023 01:15:22.371 [VerboseDebug] Starting system: UpgradeTasks
+12.11.2023 01:15:22.371 [VerboseDebug] Starting system: ModSystemDetailModeSync
+12.11.2023 01:15:22.372 [VerboseDebug] Starting system: ModSystemTiledDungeonGenerator
+12.11.2023 01:15:22.372 [VerboseDebug] Starting system: GenFromHeightmap
+12.11.2023 01:15:22.372 [VerboseDebug] Starting system: GenMaps
+12.11.2023 01:15:22.375 [VerboseDebug] Starting system: MyceliumSystem
+12.11.2023 01:15:22.375 [VerboseDebug] Starting system: ModSystemCatchCreature
+12.11.2023 01:15:22.375 [VerboseDebug] Starting system: ModSystemGliding
+12.11.2023 01:15:22.375 [VerboseDebug] Starting system: ModSystemMeasuringRope
+12.11.2023 01:15:22.375 [VerboseDebug] Starting system: ScreenshakeToClientModSystem
+12.11.2023 01:15:22.376 [VerboseDebug] Starting system: ResoArchivesSpawnConditions
+12.11.2023 01:15:22.376 [VerboseDebug] Starting system: ModSystemAuction
+12.11.2023 01:15:22.378 [VerboseDebug] Starting system: ModSystemBlockReinforcement
+12.11.2023 01:15:22.381 [VerboseDebug] Starting system: Core
+12.11.2023 01:15:22.381 [VerboseDebug] Starting system: ModSystemBoatingSound
+12.11.2023 01:15:22.381 [VerboseDebug] Starting system: CharacterSystem
+12.11.2023 01:15:22.395 [VerboseDebug] Starting system: MealMeshCache
+12.11.2023 01:15:22.395 [VerboseDebug] Starting system: DialogueSystem
+12.11.2023 01:15:22.396 [VerboseDebug] Starting system: FruitingSystem
+12.11.2023 01:15:22.396 [VerboseDebug] Starting system: ModSystemCommandHandbook
+12.11.2023 01:15:22.397 [VerboseDebug] Starting system: ModSystemSurvivalHandbook
+12.11.2023 01:15:22.519 [VerboseDebug] Lang key not found: game:Show Survival handbook
+12.11.2023 01:15:22.519 [VerboseDebug] Starting system: ModSystemTutorial
+12.11.2023 01:15:22.521 [VerboseDebug] Starting system: ModSystemNightVision
+12.11.2023 01:15:22.522 [VerboseDebug] Starting system: ModJournal
+12.11.2023 01:15:22.524 [VerboseDebug] Starting system: LiquidItemStackRenderer
+12.11.2023 01:15:22.524 [VerboseDebug] Starting system: ModSystemStructureLocator
+12.11.2023 01:15:22.524 [VerboseDebug] Starting system: ModLootRandomizer
+12.11.2023 01:15:22.524 [VerboseDebug] Starting system: MicroBlockModelCache
+12.11.2023 01:15:22.524 [VerboseDebug] Starting system: ModSystemRifts
+12.11.2023 01:15:22.528 [VerboseDebug] Starting system: ModSystemRiftWeather
+12.11.2023 01:15:22.528 [VerboseDebug] Starting system: ModSleeping
+12.11.2023 01:15:22.533 [VerboseDebug] Starting system: ModSystemSupportBeamPlacer
+12.11.2023 01:15:22.533 [VerboseDebug] Starting system: TeleporterManager
+12.11.2023 01:15:22.534 [VerboseDebug] Starting system: ModTemperature
+12.11.2023 01:15:22.534 [VerboseDebug] Starting system: SystemTemporalStability
+12.11.2023 01:15:22.534 [VerboseDebug] Starting system: TemporalStabilityEffects
+12.11.2023 01:15:22.538 [VerboseDebug] Starting system: ModSystemWearableStats
+12.11.2023 01:15:22.538 [VerboseDebug] Starting system: ModSystemEditableBook
+12.11.2023 01:15:22.538 [VerboseDebug] Starting system: MechanicalPowerMod
+12.11.2023 01:15:22.539 [VerboseDebug] Starting system: TradeHandbookInfo
+12.11.2023 01:15:22.539 [VerboseDebug] Starting system: LoadColorMaps
+12.11.2023 01:15:22.539 [VerboseDebug] Starting system: ClothManager
+12.11.2023 01:15:22.543 [VerboseDebug] Starting system: RecipeRegistrySystem
+12.11.2023 01:15:22.543 [VerboseDebug] Starting system: ModSystemOreMap
+12.11.2023 01:15:22.544 [VerboseDebug] Starting system: TraderOutfits
+12.11.2023 01:15:22.741 [VerboseDebug] Sending request to join server
+12.11.2023 01:15:22.840 [VerboseDebug] Lang key not found: <a href="chattype://{0}">{1}</a>
+12.11.2023 01:15:22.893 [VerboseDebug] Lang key not found: game:{0} is a decimal number, for example 0.5
+12.11.2023 01:15:22.920 [VerboseDebug] Lang key not found: game:{0} is a precise {1} name, optionally immediately followed by braces {{}} containing attributes for the {1}
+12.11.2023 01:15:23.582 [VerboseDebug] World configs received and block tesselation complete
+12.11.2023 01:15:23.634 [VerboseDebug] Trigger mod event OnBlockTexturesLoaded
+12.11.2023 01:15:23.711 [VerboseDebug] Done client systems OnLoaded
+12.11.2023 01:15:23.840 [VerboseDebug] Slow to load blocks (>1ms) game:flower-goldenpoppy-snow,game:flower-lilyofthevalley-snow,game:flower-woad-snow,game:flower-redtopgrass-snow
+12.11.2023 01:15:23.882 [VerboseDebug] Server assets - done block tesselation
+12.11.2023 01:15:23.927 [VerboseDebug] Slow to load blocks (>1ms) game:fruittree-stem,game:fruittree-branch,game:fruittree-cutting,game:fruittree-foliage
+12.11.2023 01:15:23.999 [VerboseDebug] Done blocks OnLoaded
+12.11.2023 01:15:24.100 [VerboseDebug] Loaded highest priority sound assets
+12.11.2023 01:15:24.139 [VerboseDebug] Done items OnLoaded
+12.11.2023 01:15:24.159 [VerboseDebug] All clientside asset loading complete, game launch can proceed
+12.11.2023 01:15:24.175 [VerboseDebug] Loading sound file may stutter game:sounds/voice/saxophone.ogg
+12.11.2023 01:15:24.212 [VerboseDebug] Starting initialising handbook
+12.11.2023 01:15:24.213 [VerboseDebug] Lang key not found: game:All
+12.11.2023 01:15:24.213 [VerboseDebug] Lang key not found: game:Server Commands
+12.11.2023 01:15:24.213 [VerboseDebug] Lang key not found: game:Client Commands
+12.11.2023 01:15:24.213 [VerboseDebug] Lang key not found: game:Command Handbook
+12.11.2023 01:15:24.229 [VerboseDebug] Done creating handbook index GUI
+12.11.2023 01:15:24.229 [VerboseDebug] Done initialising handbook
+12.11.2023 01:15:24.232 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
+12.11.2023 01:15:24.233 [VerboseDebug] Lang key not found: game:entitlement-
+12.11.2023 01:15:24.233 [VerboseDebug] Received inventory contents hotbar-Dee.Covan@gmail.com
+12.11.2023 01:15:24.235 [VerboseDebug] Received inventory contents creative-Dee.Covan@gmail.com
+12.11.2023 01:15:24.248 [VerboseDebug] Received inventory contents backpack-Dee.Covan@gmail.com
+12.11.2023 01:15:24.253 [VerboseDebug] Received inventory contents ground-Dee.Covan@gmail.com
+12.11.2023 01:15:24.253 [VerboseDebug] Received inventory contents mouse-Dee.Covan@gmail.com
+12.11.2023 01:15:24.253 [VerboseDebug] Received inventory contents craftinggrid-Dee.Covan@gmail.com
+12.11.2023 01:15:24.257 [VerboseDebug] Received inventory contents character-Dee.Covan@gmail.com
+12.11.2023 01:15:24.257 [VerboseDebug] Informing clientsystems playerdata received
+12.11.2023 01:15:24.270 [VerboseDebug] GuiDialogInventory: starting composeGUI
+12.11.2023 01:15:24.284 [VerboseDebug] GuiDialogInventory: done composeGUI
+12.11.2023 01:15:24.307 [VerboseDebug] Done handling playerdata packet
+12.11.2023 01:15:24.309 [VerboseDebug] Received level finalize
+12.11.2023 01:15:24.309 [VerboseDebug] Handling LevelFinalize packet; requires remapping is False
+12.11.2023 01:15:24.314 [VerboseDebug] Done level finalize clientsystems
+12.11.2023 01:15:24.329 [VerboseDebug] Done init WeatherSystemClient
+12.11.2023 01:15:24.370 [VerboseDebug] Lang key not found: game:Prospecting layer
+12.11.2023 01:15:24.390 [VerboseDebug] Loading sound file may stutter game:sounds/raft-moving.ogg
+12.11.2023 01:15:24.504 [VerboseDebug] Loading sound file may stutter game:sounds/raft-idle.ogg
+12.11.2023 01:15:24.509 [VerboseDebug] Lang key not found: game:block-baskettrap-reed
+12.11.2023 01:15:24.652 [VerboseDebug] Starting initialising handbook
+12.11.2023 01:15:24.696 [VerboseDebug] Lang key not found: game:Start Tutorial
+12.11.2023 01:15:24.718 [VerboseDebug] Done creating handbook index GUI
+12.11.2023 01:15:24.718 [VerboseDebug] Done initialising handbook
+12.11.2023 01:15:24.724 [VerboseDebug] Lang key not found: game:Add temporal gear to refuel
+12.11.2023 01:15:24.726 [VerboseDebug] Done scanning for liquid containers 
+12.11.2023 01:15:24.733 [VerboseDebug] Lang key not found: game:loretype-
+12.11.2023 01:15:24.770 [VerboseDebug] Done init huge gears
+12.11.2023 01:15:24.771 [VerboseDebug] Done wearable stats
+12.11.2023 01:15:24.780 [VerboseDebug] Done traders handbook stuff
+12.11.2023 01:15:24.781 [VerboseDebug] Done level finalize
+12.11.2023 01:15:25.032 [VerboseDebug] Lang key not found: game:block-attachingplant-deadfungi
+12.11.2023 01:15:25.032 [VerboseDebug] Lang key not found: game:block-attachingplant-spottymold
+12.11.2023 01:15:25.032 [VerboseDebug] Lang key not found: game:block-attachingplant-sparsemold
+12.11.2023 01:15:25.032 [VerboseDebug] Lang key not found: game:block-precipitate-dust-heavy
+12.11.2023 01:15:25.032 [VerboseDebug] Lang key not found: game:block-precipitate-dust-light
+12.11.2023 01:15:25.033 [VerboseDebug] Lang key not found: game:block-precipitate-dust-sparse
+12.11.2023 01:15:25.131 [VerboseDebug] Lang key not found: game:item-creature-moose-male-adult
+12.11.2023 01:15:25.131 [VerboseDebug] Lang key not found: game:item-creature-moose-female-adult
+12.11.2023 01:15:25.131 [VerboseDebug] Lang key not found: game:item-creature-moose-male-baby
+12.11.2023 01:15:25.131 [VerboseDebug] Lang key not found: game:item-creature-moose-female-baby
+12.11.2023 01:15:39.305 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+12.11.2023 01:17:25.948 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
+12.11.2023 01:17:25.949 [VerboseDebug] Done handling playerdata packet
+12.11.2023 01:18:26.277 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
+12.11.2023 01:18:26.277 [VerboseDebug] Done handling playerdata packet
+12.11.2023 01:19:26.572 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
+12.11.2023 01:19:26.572 [VerboseDebug] Done handling playerdata packet
+12.11.2023 01:19:26.828 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+12.11.2023 01:19:32.637 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+12.11.2023 01:19:39.528 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+12.11.2023 01:20:26.937 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
+12.11.2023 01:20:26.937 [VerboseDebug] Done handling playerdata packet
+12.11.2023 01:26:28.998 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
+12.11.2023 01:26:28.998 [VerboseDebug] Done handling playerdata packet
+12.11.2023 01:27:06.623 [VerboseDebug] Lang key not found: game:Продает
+12.11.2023 01:29:22.208 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
+12.11.2023 01:29:22.208 [VerboseDebug] Done handling playerdata packet
+12.11.2023 01:31:22.994 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
+12.11.2023 01:31:22.994 [VerboseDebug] Done handling playerdata packet
+12.11.2023 01:32:13.248 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+12.11.2023 01:32:23.412 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
+12.11.2023 01:32:23.413 [VerboseDebug] Done handling playerdata packet
+12.11.2023 01:32:24.016 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+12.11.2023 01:32:27.352 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+12.11.2023 01:33:23.835 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
+12.11.2023 01:33:23.835 [VerboseDebug] Done handling playerdata packet
+12.11.2023 01:35:46.639 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+12.11.2023 01:35:53.749 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+12.11.2023 01:35:56.704 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+12.11.2023 01:35:57.564 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+12.11.2023 01:36:28.050 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
+12.11.2023 01:36:28.051 [VerboseDebug] Done handling playerdata packet
+12.11.2023 01:37:31.206 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
+12.11.2023 01:37:31.206 [VerboseDebug] Done handling playerdata packet
+12.11.2023 01:38:31.639 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
+12.11.2023 01:38:31.639 [VerboseDebug] Done handling playerdata packet
+12.11.2023 01:39:31.893 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
+12.11.2023 01:39:31.893 [VerboseDebug] Done handling playerdata packet
+12.11.2023 01:40:30.338 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+12.11.2023 01:40:32.054 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
+12.11.2023 01:40:32.054 [VerboseDebug] Done handling playerdata packet
+12.11.2023 01:40:56.746 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+12.11.2023 01:41:01.989 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+12.11.2023 01:41:17.699 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+12.11.2023 01:41:21.897 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+12.11.2023 01:41:35.445 [VerboseDebug] Received player data for playeruid Dee.Covan@gmail.com
+12.11.2023 01:41:35.445 [VerboseDebug] Done handling playerdata packet
+12.11.2023 01:41:37.831 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+12.11.2023 01:42:03.758 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+12.11.2023 01:42:05.874 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+12.11.2023 01:42:10.286 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+12.11.2023 01:43:50.059 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+12.11.2023 01:43:51.547 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+12.11.2023 01:43:52.173 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+12.11.2023 01:44:00.558 [VerboseDebug] Entities and pool locations removed. Removing from chunk dict
+12.11.2023 01:44:34 [Debug] GuiScreenConnectingToServer constructed
+12.11.2023 01:44:35.057 [VerboseDebug] Left bottom main menu text is at 13/1027.6890625 w/h 300,44.310937499999994
+12.11.2023 01:44:38 [Debug] After gamewindow.Run()

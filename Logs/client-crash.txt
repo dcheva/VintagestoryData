@@ -37,3 +37,22 @@ File name: 'PresentationFramework, Version=4.0.0.0, Culture=neutral, PublicKeyTo
    at Vintagestory.Client.ClientProgram.Start(ClientProgramArgs args, String[] rawArgs) in VintagestoryLib\Client\ClientProgram.cs:line 197
    at Vintagestory.Client.ClientProgram.<>c__DisplayClass9_0.<.ctor>b__1() in VintagestoryLib\Client\ClientProgram.cs:line 128
    at Vintagestory.ClientNative.CrashReporter.Start(ThreadStart start) in VintagestoryLib\Client\ClientPlatform\ClientNative\CrashReporter.cs:line 93
+Game Version: v1.19.0-pre.5 (Unstable)
+12-Nov-23 01:14:54: Critical error occurred
+Loaded Mods: game@1.19.0-pre.5, creative@1.19.0-pre.5, survival@1.19.0-pre.5
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Vintagestory.GameContent.BlockTorch.OnHeldInteractStep(Single secondsUsed, ItemSlot slot, EntityAgent byEntity, BlockSelection blockSel, EntitySelection entitySel) in VSSurvivalMod\Block\BlockTorch.cs:line 117
+   at Vintagestory.API.Common.CollectibleObject.OnHeldUseStep(Single secondsPassed, ItemSlot slot, EntityAgent byEntity, BlockSelection blockSel, EntitySelection entitySel) in VintagestoryApi\Common\Collectible\Collectible.cs:line 1093
+   at Vintagestory.Client.NoObf.SystemMouseInWorldInteractions.HandleHandInteraction(Single dt) in VintagestoryLib\Client\Systems\Player\MouseInWorldInteractions.cs:line 341
+   at Vintagestory.Client.NoObf.SystemMouseInWorldInteractions.OnGameTick(Single dt) in VintagestoryLib\Client\Systems\Player\MouseInWorldInteractions.cs:line 174
+   at Vintagestory.Common.EventManager.TriggerGameTick(Int64 ellapsedMilliseconds, IWorldAccessor world) in VintagestoryLib\Common\EventManager.cs:line 57
+   at Vintagestory.Client.NoObf.ClientMain.MainRenderLoop(Single dt) in VintagestoryLib\Client\ClientMain.cs:line 802
+   at Vintagestory.Client.NoObf.ClientMain.MainGameLoop(Single deltaTime) in VintagestoryLib\Client\ClientMain.cs:line 718
+   at Vintagestory.Client.GuiScreenRunningGame.RenderToPrimary(Single dt) in VintagestoryLib\Client\MainMenu\Screens\GuiScreenRunningGame.cs:line 200
+   at Vintagestory.Client.ScreenManager.Render(Single dt) in VintagestoryLib\Client\ScreenManager.cs:line 668
+   at Vintagestory.Client.ScreenManager.OnNewFrame(Single dt) in VintagestoryLib\Client\ScreenManager.cs:line 643
+   at Vintagestory.Client.NoObf.ClientPlatformWindows.window_RenderFrame(FrameEventArgs e) in VintagestoryLib\Client\ClientPlatform\GameWindow.cs:line 78
+   at OpenTK.Windowing.Desktop.GameWindow.Run()
+   at Vintagestory.Client.ClientProgram.Start(ClientProgramArgs args, String[] rawArgs) in VintagestoryLib\Client\ClientProgram.cs:line 322
+   at Vintagestory.Client.ClientProgram.<>c__DisplayClass9_0.<.ctor>b__1() in VintagestoryLib\Client\ClientProgram.cs:line 128
+   at Vintagestory.ClientNative.CrashReporter.Start(ThreadStart start) in VintagestoryLib\Client\ClientPlatform\ClientNative\CrashReporter.cs:line 93

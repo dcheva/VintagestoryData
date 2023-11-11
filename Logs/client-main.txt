@@ -1,802 +1,292 @@
-11.11.2023 18:47:06 [Notification] Client logger started.
-11.11.2023 18:47:06 [Notification] Game Version: v1.19.0-pre.5 (Unstable)
-11.11.2023 18:47:07 [Notification] OpenAL Initialized. Available Mono/Stereo Sources: 255/1
-11.11.2023 18:47:07 [Notification] Process path: C:\Games\VintageStory\1.19.0-pre.5\PlayVintageStory.exe
-11.11.2023 18:47:07 [Notification] Operating System: Windows 10.0.19045.0
-11.11.2023 18:47:07 [Notification] CPU Cores: 6
-11.11.2023 18:47:07 [Notification] Available RAM: 16302 MB
-11.11.2023 18:47:07 [Notification] Graphics Card Vendor: NVIDIA Corporation
-11.11.2023 18:47:07 [Notification] Graphics Card Version: 3.3.0 NVIDIA 546.01
-11.11.2023 18:47:07 [Notification] Graphics Card Renderer: NVIDIA GeForce GTX 1660/PCIe/SSE2
-11.11.2023 18:47:07 [Notification] Graphics Card ShadingLanguageVersion: 3.30 NVIDIA via Cg compiler
-11.11.2023 18:47:07 [Notification] GL.MaxVertexUniformComponents: 4096
-11.11.2023 18:47:07 [Notification] GL.MaxUniformBlockSize: 65536
-11.11.2023 18:47:07 [Notification] Cairo Graphics Version: 1.17.3
-11.11.2023 18:47:07 [Notification] OpenAL Version: 1.1 ALSOFT 1.23.0
-11.11.2023 18:47:07 [Notification] C# Framework: .net 7.0.12
-11.11.2023 18:47:07 [Notification] Zstd Version: 1.5.5
-11.11.2023 18:47:07 [Notification] Start discovering assets
-11.11.2023 18:47:07 [Notification] Found 23 base assets in category lang
-11.11.2023 18:47:07 [Notification] Found 0 base assets in category patches
-11.11.2023 18:47:07 [Notification] Found 23 base assets in category config
-11.11.2023 18:47:07 [Notification] Found 0 base assets in category worldproperties
-11.11.2023 18:47:07 [Notification] Found 46 base assets in category sounds
-11.11.2023 18:47:07 [Notification] Found 92 base assets in category shapes
-11.11.2023 18:47:07 [Notification] Found 72 base assets in category shaders
-11.11.2023 18:47:07 [Notification] Found 16 base assets in category shaderincludes
-11.11.2023 18:47:07 [Notification] Found 131 base assets in category textures
-11.11.2023 18:47:07 [Notification] Found 4 base assets in category music
-11.11.2023 18:47:07 [Notification] Found 0 base assets in category dialog
-11.11.2023 18:47:07 [Notification] Found 407 base assets in total
-11.11.2023 18:47:07 [Notification] Loading sounds
-11.11.2023 18:47:07 [Notification] Sounds loaded
-11.11.2023 18:47:07 [Notification] (Re-)loaded frame buffers
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass .
-11.11.2023 18:47:07 [Notification] Begin loading shaders
-11.11.2023 18:47:07 [Notification] Load shaders now
-11.11.2023 18:47:07 [Notification] Loading shaders...
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass standard.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass particlescube.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass particlesquad.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass sky.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass nightsky.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass woittest.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass transparentcompose.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass debugdepthbuffer.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass helditem.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass chunkopaque.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass chunkliquid.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass decals.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass final.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass gui.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass blur.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass chunktransparent.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass findbright.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass chunktopsoil.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass godrays.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass autocamera.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass blockhighlights.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass wireframe.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass entityanimated.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass luma.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass blit.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass particlesquad2d.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass shadowmapentityanimated.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass shadowmapgeneric.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass texture2texture.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass celestialobject.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass guitopsoil.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass colorgrade.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass guigear.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass ssao.
-11.11.2023 18:47:07 [Notification] Loaded Shaderprogramm for render pass bilateralblur.
-11.11.2023 18:47:07 [Notification] Cached session key is invalid, require login
-11.11.2023 18:47:38 [Notification] Will search the following paths for mods:
-11.11.2023 18:47:38 [Notification]     C:\Games\VintageStory\1.19.0-pre.5\Mods
-11.11.2023 18:47:38 [Notification]     C:\Users\Dmytro\AppData\Roaming\VintagestoryData\Mods
-11.11.2023 18:48:25 [Notification] Window was resized to 0 0? Window probably got minimized. Will not rebuild frame buffers
-11.11.2023 18:48:36 [Warning] Texture with texture id 3 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:48:43 [Warning] Texture with texture id 3 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:49:24 [Notification] Initialized GUI Manager
-11.11.2023 18:49:24 [Notification] Initialized Server Connection
-11.11.2023 18:49:24 [Notification] Server args parsed
-11.11.2023 18:49:24 [Notification] Server main instantiated
-11.11.2023 18:49:29 [Notification] Processed server identification
-11.11.2023 18:49:29 [Notification] Map initialized
-11.11.2023 18:49:29 [Notification] Received server assets
-11.11.2023 18:49:29 [Notification] Loading and pre-starting client side mods...
-11.11.2023 18:49:29 [Notification] Will search the following paths for mods:
-11.11.2023 18:49:29 [Notification]     C:\Games\VintageStory\1.19.0-pre.5\Mods
-11.11.2023 18:49:29 [Notification]     C:\Users\Dmytro\AppData\Roaming\VintagestoryData\Mods
-11.11.2023 18:49:29 [Notification] Found 3 mods (0 disabled)
-11.11.2023 18:49:29 [Notification] Mods, sorted by dependency: game, creative, survival
-11.11.2023 18:49:29 [Notification] Instantiated 106 mod systems from 3 enabled mods
-11.11.2023 18:49:29 [Notification] Done loading and pre-starting client side mods.
-11.11.2023 18:49:29 [Notification] External Origins in load order: modorigin@C:\Games\VintageStory\1.19.0-pre.5\assets\creative\, modorigin@C:\Games\VintageStory\1.19.0-pre.5\assets\survival\
-11.11.2023 18:49:29 [Notification] Found 0 external assets in category lang
-11.11.2023 18:49:29 [Notification] Found 9 external assets in category patches
-11.11.2023 18:49:29 [Notification] Found 67 external assets in category config
-11.11.2023 18:49:29 [Notification] Found 25 external assets in category worldproperties
-11.11.2023 18:49:29 [Notification] Found 394 external assets in category sounds
-11.11.2023 18:49:29 [Notification] Found 3409 external assets in category shapes
-11.11.2023 18:49:29 [Notification] Found 13 external assets in category shaders
-11.11.2023 18:49:29 [Notification] Found 0 external assets in category shaderincludes
-11.11.2023 18:49:29 [Notification] Found 5478 external assets in category textures
-11.11.2023 18:49:29 [Notification] Found 67 external assets in category music
-11.11.2023 18:49:29 [Notification] Found 18 external assets in category dialog
-11.11.2023 18:49:29 [Notification] Found 0 external assets in category compatibility
-11.11.2023 18:49:30 [Notification] Reloaded lang file now with mod assets
-11.11.2023 18:49:30 [Notification] Compatibility lib: 0 assets added, 0 assets replaced.
-11.11.2023 18:49:30 [Notification] JsonPatch Loader: 10 патчей всего, успешно применено 4 патчей, невыполненны условия в 2 патчах, нет проблем
-11.11.2023 18:49:30 [Notification] Received 3094 item types from server
-11.11.2023 18:49:30 [Notification] Loaded 9274 block types from server
-11.11.2023 18:49:30 [Notification] Reloaded sounds, now with mod assets
-11.11.2023 18:49:30 [Notification] Composed 1 4096x2048 entities texture atlases from 409 textures
-11.11.2023 18:49:31 [Notification] Collected 1829 shapes to tesselate.
-11.11.2023 18:49:31 [Notification] Composed 1 4096x2048 items texture atlases from 1618 textures
-11.11.2023 18:49:32 [Notification] Server launched
-11.11.2023 18:49:32 [Notification] Composed 1 4096x2048 blocks texture atlases from 4389 textures
-11.11.2023 18:49:33 [Notification] Server assets loaded
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass anvilworkitem.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass lines.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass aurora.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass rift.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass sleepoverlay.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass machinegear.
-11.11.2023 18:49:33 [Notification] Started 66 systems on Client:
-11.11.2023 18:49:33 [Notification]     Mod 'VSEssentials.dll' (game):
-11.11.2023 18:49:33 [Notification]         Vintagestory.ServerMods.Core
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.EntityPartitioning
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.ErrorReporter
-11.11.2023 18:49:33 [Notification]         Vintagestory.ServerMods.ModCompatiblityUtil
-11.11.2023 18:49:33 [Notification]         Vintagestory.ServerMods.NoObf.ModJsonPatchLoader
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.ModSystemDormancyStateChecker
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.ModSystemItemRendererOptimizer
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.FallingBlockParticlesModSystem
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.CharacterExtraDialogs
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.EntityNameTagRendererRegistry
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.POIRegistry
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.RoomRegistry
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.WeatherSystemCommands
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.WeatherSystemClient
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.WorldMapManager
-11.11.2023 18:49:33 [Notification]         Vintagestory.ServerMods.LoadColorMaps
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.ClothManager
-11.11.2023 18:49:33 [Notification]     Mod 'VSSurvivalMod.dll' (survival):
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.ModSystemControlPoints
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.SurvivalCoreSystem
-11.11.2023 18:49:33 [Notification]         Vintagestory.Client.NoObf.ModSystemBossHealthBars
-11.11.2023 18:49:33 [Notification]         Vintagestory.ServerMods.DebugSystem
-11.11.2023 18:49:33 [Notification]         Vintagestory.ServerMods.UpgradeTasks
-11.11.2023 18:49:33 [Notification]         Vintagestory.ServerMods.ModSystemDetailModeSync
-11.11.2023 18:49:33 [Notification]         Vintagestory.ServerMods.ModSystemTiledDungeonGenerator
-11.11.2023 18:49:33 [Notification]         Vintagestory.ServerMods.GenFromHeightmap
-11.11.2023 18:49:33 [Notification]         Vintagestory.ServerMods.GenMaps
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.MyceliumSystem
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.ModSystemCatchCreature
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.ModSystemGliding
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.ModSystemMeasuringRope
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.ScreenshakeToClientModSystem
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.ResoArchivesSpawnConditions
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.ModSystemAuction
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.ModSystemBlockReinforcement
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.Core
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.ModSystemBoatingSound
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.CharacterSystem
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.MealMeshCache
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.DialogueSystem
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.FruitingSystem
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.ModSystemCommandHandbook
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.ModSystemSurvivalHandbook
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.ModSystemTutorial
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.ModSystemNightVision
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.ModJournal
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.LiquidItemStackRenderer
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.ModSystemStructureLocator
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.ModLootRandomizer
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.MicroBlockModelCache
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.ModSystemRifts
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.ModSystemRiftWeather
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.ModSleeping
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.ModSystemSupportBeamPlacer
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.TeleporterManager
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.ModTemperature
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.SystemTemporalStability
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.TemporalStabilityEffects
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.ModSystemWearableStats
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.ModSystemEditableBook
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.Mechanics.MechanicalPowerMod
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.TradeHandbookInfo
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.RecipeRegistrySystem
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.ModSystemOreMap
-11.11.2023 18:49:33 [Notification]         Vintagestory.GameContent.TraderOutfits
-11.11.2023 18:49:33 [Notification]     Mod 'VSCreativeMod.dll' (creative):
-11.11.2023 18:49:33 [Notification]         Vintagestory.ServerMods.Core
-11.11.2023 18:49:33 [Notification]         Vintagestory.ServerMods.WorldEdit.WorldEdit
-11.11.2023 18:49:33 [Notification] Loading shaders...
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass standard.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass particlescube.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass particlesquad.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass sky.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass nightsky.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass woittest.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass transparentcompose.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass debugdepthbuffer.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass helditem.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass chunkopaque.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass chunkliquid.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass decals.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass final.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass gui.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass blur.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass chunktransparent.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass findbright.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass chunktopsoil.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass godrays.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass autocamera.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass blockhighlights.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass wireframe.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass entityanimated.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass luma.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass blit.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass particlesquad2d.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass shadowmapentityanimated.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass shadowmapgeneric.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass texture2texture.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass celestialobject.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass guitopsoil.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass colorgrade.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass guigear.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass ssao.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass bilateralblur.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass anvilworkitem.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass lines.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass aurora.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass rift.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass sleepoverlay.
-11.11.2023 18:49:33 [Notification] Loaded Shaderprogramm for render pass machinegear.
-11.11.2023 18:49:33 [Notification] Reloaded shaders now with mod assets
-11.11.2023 18:49:33 [Notification] Destroying game session, waiting up to 200ms for client threads to exit
-11.11.2023 18:49:33 [Notification] Stopping single player server
-11.11.2023 18:49:33 [Notification] Finished fully loading sounds (async)
-11.11.2023 18:49:35 [Notification] Blocks tesselated
-11.11.2023 18:50:37 [Notification] Initialized GUI Manager
-11.11.2023 18:50:37 [Notification] Initialized Server Connection
-11.11.2023 18:50:37 [Notification] Server args parsed
-11.11.2023 18:50:37 [Notification] Server main instantiated
-11.11.2023 18:50:39 [Warning] Texture with texture id 48 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:50:40 [Notification] Window was resized to 0 0? Window probably got minimized. Will not rebuild frame buffers
-11.11.2023 18:50:40 [Notification] Processed server identification
-11.11.2023 18:50:40 [Notification] Map initialized
-11.11.2023 18:50:41 [Notification] Received server assets
-11.11.2023 18:50:41 [Notification] Loading and pre-starting client side mods...
-11.11.2023 18:50:41 [Notification] Will search the following paths for mods:
-11.11.2023 18:50:41 [Notification]     C:\Games\VintageStory\1.19.0-pre.5\Mods
-11.11.2023 18:50:41 [Notification]     C:\Users\Dmytro\AppData\Roaming\VintagestoryData\Mods
-11.11.2023 18:50:41 [Notification] Found 3 mods (0 disabled)
-11.11.2023 18:50:41 [Notification] Mods, sorted by dependency: game, creative, survival
-11.11.2023 18:50:41 [Notification] Instantiated 106 mod systems from 3 enabled mods
-11.11.2023 18:50:41 [Notification] Done loading and pre-starting client side mods.
-11.11.2023 18:50:41 [Notification] External Origins in load order: modorigin@C:\Games\VintageStory\1.19.0-pre.5\assets\creative\, modorigin@C:\Games\VintageStory\1.19.0-pre.5\assets\survival\
-11.11.2023 18:50:41 [Notification] Found 0 external assets in category lang
-11.11.2023 18:50:41 [Notification] Found 9 external assets in category patches
-11.11.2023 18:50:41 [Notification] Found 67 external assets in category config
-11.11.2023 18:50:41 [Notification] Found 25 external assets in category worldproperties
-11.11.2023 18:50:41 [Notification] Found 394 external assets in category sounds
-11.11.2023 18:50:41 [Notification] Found 3409 external assets in category shapes
-11.11.2023 18:50:41 [Notification] Found 13 external assets in category shaders
-11.11.2023 18:50:41 [Notification] Found 0 external assets in category shaderincludes
-11.11.2023 18:50:41 [Notification] Found 5478 external assets in category textures
-11.11.2023 18:50:41 [Notification] Found 67 external assets in category music
-11.11.2023 18:50:41 [Notification] Found 18 external assets in category dialog
-11.11.2023 18:50:41 [Notification] Found 0 external assets in category compatibility
-11.11.2023 18:50:41 [Notification] Reloaded lang file now with mod assets
-11.11.2023 18:50:41 [Notification] Compatibility lib: 0 assets added, 0 assets replaced.
-11.11.2023 18:50:41 [Notification] JsonPatch Loader: 10 патчей всего, успешно применено 4 патчей, невыполненны условия в 2 патчах, нет проблем
-11.11.2023 18:50:41 [Notification] Received 3094 item types from server
-11.11.2023 18:50:41 [Notification] Loaded 9274 block types from server
-11.11.2023 18:50:42 [Notification] Reloaded sounds, now with mod assets
-11.11.2023 18:50:42 [Notification] Composed 1 4096x2048 entities texture atlases from 409 textures
-11.11.2023 18:50:42 [Notification] Collected 1829 shapes to tesselate.
-11.11.2023 18:50:42 [Notification] Composed 1 4096x2048 items texture atlases from 1618 textures
-11.11.2023 18:50:43 [Notification] Composed 1 4096x2048 blocks texture atlases from 4389 textures
-11.11.2023 18:50:44 [Notification] Server assets loaded
-11.11.2023 18:50:45 [Notification] Blocks tesselated
-11.11.2023 18:50:51 [Notification] Server launched
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass anvilworkitem.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass lines.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass aurora.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass rift.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass sleepoverlay.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass machinegear.
-11.11.2023 18:50:52 [Notification] Started 66 systems on Client:
-11.11.2023 18:50:52 [Notification]     Mod 'VSEssentials.dll' (game):
-11.11.2023 18:50:52 [Notification]         Vintagestory.ServerMods.Core
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.EntityPartitioning
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.ErrorReporter
-11.11.2023 18:50:52 [Notification]         Vintagestory.ServerMods.ModCompatiblityUtil
-11.11.2023 18:50:52 [Notification]         Vintagestory.ServerMods.NoObf.ModJsonPatchLoader
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.ModSystemDormancyStateChecker
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.ModSystemItemRendererOptimizer
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.FallingBlockParticlesModSystem
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.CharacterExtraDialogs
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.EntityNameTagRendererRegistry
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.POIRegistry
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.RoomRegistry
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.WeatherSystemCommands
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.WeatherSystemClient
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.WorldMapManager
-11.11.2023 18:50:52 [Notification]         Vintagestory.ServerMods.LoadColorMaps
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.ClothManager
-11.11.2023 18:50:52 [Notification]     Mod 'VSSurvivalMod.dll' (survival):
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.ModSystemControlPoints
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.SurvivalCoreSystem
-11.11.2023 18:50:52 [Notification]         Vintagestory.Client.NoObf.ModSystemBossHealthBars
-11.11.2023 18:50:52 [Notification]         Vintagestory.ServerMods.DebugSystem
-11.11.2023 18:50:52 [Notification]         Vintagestory.ServerMods.UpgradeTasks
-11.11.2023 18:50:52 [Notification]         Vintagestory.ServerMods.ModSystemDetailModeSync
-11.11.2023 18:50:52 [Notification]         Vintagestory.ServerMods.ModSystemTiledDungeonGenerator
-11.11.2023 18:50:52 [Notification]         Vintagestory.ServerMods.GenFromHeightmap
-11.11.2023 18:50:52 [Notification]         Vintagestory.ServerMods.GenMaps
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.MyceliumSystem
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.ModSystemCatchCreature
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.ModSystemGliding
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.ModSystemMeasuringRope
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.ScreenshakeToClientModSystem
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.ResoArchivesSpawnConditions
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.ModSystemAuction
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.ModSystemBlockReinforcement
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.Core
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.ModSystemBoatingSound
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.CharacterSystem
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.MealMeshCache
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.DialogueSystem
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.FruitingSystem
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.ModSystemCommandHandbook
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.ModSystemSurvivalHandbook
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.ModSystemTutorial
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.ModSystemNightVision
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.ModJournal
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.LiquidItemStackRenderer
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.ModSystemStructureLocator
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.ModLootRandomizer
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.MicroBlockModelCache
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.ModSystemRifts
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.ModSystemRiftWeather
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.ModSleeping
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.ModSystemSupportBeamPlacer
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.TeleporterManager
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.ModTemperature
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.SystemTemporalStability
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.TemporalStabilityEffects
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.ModSystemWearableStats
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.ModSystemEditableBook
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.Mechanics.MechanicalPowerMod
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.TradeHandbookInfo
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.RecipeRegistrySystem
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.ModSystemOreMap
-11.11.2023 18:50:52 [Notification]         Vintagestory.GameContent.TraderOutfits
-11.11.2023 18:50:52 [Notification]     Mod 'VSCreativeMod.dll' (creative):
-11.11.2023 18:50:52 [Notification]         Vintagestory.ServerMods.Core
-11.11.2023 18:50:52 [Notification]         Vintagestory.ServerMods.WorldEdit.WorldEdit
-11.11.2023 18:50:52 [Notification] Loading shaders...
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass standard.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass particlescube.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass particlesquad.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass sky.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass nightsky.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass woittest.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass transparentcompose.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass debugdepthbuffer.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass helditem.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass chunkopaque.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass chunkliquid.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass decals.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass final.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass gui.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass blur.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass chunktransparent.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass findbright.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass chunktopsoil.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass godrays.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass autocamera.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass blockhighlights.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass wireframe.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass entityanimated.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass luma.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass blit.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass particlesquad2d.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass shadowmapentityanimated.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass shadowmapgeneric.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass texture2texture.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass celestialobject.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass guitopsoil.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass colorgrade.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass guigear.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass ssao.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass bilateralblur.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass anvilworkitem.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass lines.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass aurora.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass rift.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass sleepoverlay.
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass machinegear.
-11.11.2023 18:50:52 [Notification] Reloaded shaders now with mod assets
-11.11.2023 18:50:52 [Notification] Received level init
-11.11.2023 18:50:52 [Notification] Loaded Shaderprogramm for render pass instanced.
-11.11.2023 18:50:52 [Notification] Initialized Music Engine
-11.11.2023 18:50:52 [Notification] Texture size is 32 so decal atlas size of 128x128 should suffice
-11.11.2023 18:50:53 [Notification] Received level finalize
-11.11.2023 18:50:53 [Notification] Loaded Shaderprogramm for render pass clouds.
-11.11.2023 18:50:53 [Notification] Loading world map cache db...
-11.11.2023 18:50:53 [Warning] ===============================================================
-11.11.2023 18:50:53 [Warning] (x_x) Captured 1 issues during startup:
-11.11.2023 18:50:53 [Warning] Texture with texture id 48 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:50:53 [Warning] ===============================================================
-11.11.2023 18:50:53 [Notification] Client pause state is now on
-11.11.2023 18:50:57 [Notification] Finished fully loading sounds (async)
-11.11.2023 18:52:05 [Notification] Call to RegisterCallback while game is paused
-11.11.2023 18:52:05 [Notification] Client pause state is now off
-11.11.2023 18:52:05 [Notification] Track music/spring.ogg now started
-11.11.2023 18:52:14 [Notification] Client pause state is now on
-11.11.2023 18:52:54 [Notification] Client pause state is now off
-11.11.2023 18:53:05 [Notification] Client pause state is now on
-11.11.2023 18:53:16 [Notification] Client pause state is now off
-11.11.2023 18:53:38 [Notification] Client pause state is now on
-11.11.2023 18:53:51 [Notification] Client pause state is now off
-11.11.2023 18:53:52 [Notification] Client pause state is now on
-11.11.2023 18:54:12 [Notification] Client pause state is now off
-11.11.2023 18:54:12 [Notification] Client pause state is now on
-11.11.2023 18:54:14 [Notification] Destroying game session, waiting up to 200ms for client threads to exit
-11.11.2023 18:54:14 [Notification] Stopping single player server
-11.11.2023 18:54:15 [Warning] Texture with texture id 588 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 578 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 587 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 610 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 609 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 598 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 605 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 607 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 606 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 599 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 604 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 608 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 600 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 603 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 597 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 601 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 602 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 511 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 514 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 512 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 513 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 521 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 520 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 509 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 516 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 518 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 517 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 510 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 515 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Warning] Texture with texture id 519 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:15 [Notification] Exiting current game to main menu, reason: leave world button pressed
-11.11.2023 18:54:18 [Notification] Initialized GUI Manager
-11.11.2023 18:54:18 [Notification] Initialized Server Connection
-11.11.2023 18:54:18 [Notification] Server args parsed
-11.11.2023 18:54:18 [Notification] Server main instantiated
-11.11.2023 18:54:22 [Notification] Processed server identification
-11.11.2023 18:54:22 [Notification] Map initialized
-11.11.2023 18:54:22 [Notification] Received server assets
-11.11.2023 18:54:22 [Notification] Loading and pre-starting client side mods...
-11.11.2023 18:54:22 [Notification] Will search the following paths for mods:
-11.11.2023 18:54:22 [Notification]     C:\Games\VintageStory\1.19.0-pre.5\Mods
-11.11.2023 18:54:22 [Notification]     C:\Users\Dmytro\AppData\Roaming\VintagestoryData\Mods
-11.11.2023 18:54:22 [Notification] Found 3 mods (0 disabled)
-11.11.2023 18:54:22 [Notification] Mods, sorted by dependency: game, creative, survival
-11.11.2023 18:54:22 [Notification] Instantiated 106 mod systems from 3 enabled mods
-11.11.2023 18:54:22 [Notification] Done loading and pre-starting client side mods.
-11.11.2023 18:54:22 [Notification] External Origins in load order: modorigin@C:\Games\VintageStory\1.19.0-pre.5\assets\creative\, modorigin@C:\Games\VintageStory\1.19.0-pre.5\assets\survival\
-11.11.2023 18:54:22 [Notification] Found 0 external assets in category lang
-11.11.2023 18:54:22 [Notification] Found 9 external assets in category patches
-11.11.2023 18:54:22 [Notification] Found 67 external assets in category config
-11.11.2023 18:54:22 [Notification] Found 25 external assets in category worldproperties
-11.11.2023 18:54:22 [Notification] Found 394 external assets in category sounds
-11.11.2023 18:54:23 [Warning] MeshRef with vao id 12698 with 2706 indices is leaking memory, missing call to Dispose. Set env var VAO_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:23 [Warning] Texture with texture id 507 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:23 [Warning] Texture with texture id 49 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:23 [Notification] Window was resized to 0 0? Window probably got minimized. Will not rebuild frame buffers
-11.11.2023 18:54:23 [Notification] Found 3409 external assets in category shapes
-11.11.2023 18:54:23 [Notification] Found 13 external assets in category shaders
-11.11.2023 18:54:23 [Notification] Found 0 external assets in category shaderincludes
-11.11.2023 18:54:23 [Notification] Found 5478 external assets in category textures
-11.11.2023 18:54:23 [Notification] Found 67 external assets in category music
-11.11.2023 18:54:23 [Notification] Found 18 external assets in category dialog
-11.11.2023 18:54:23 [Notification] Found 0 external assets in category compatibility
-11.11.2023 18:54:23 [Notification] Reloaded lang file now with mod assets
-11.11.2023 18:54:23 [Notification] Compatibility lib: 0 assets added, 0 assets replaced.
-11.11.2023 18:54:23 [Notification] JsonPatch Loader: 10 патчей всего, успешно применено 4 патчей, невыполненны условия в 2 патчах, нет проблем
-11.11.2023 18:54:23 [Notification] Received 3094 item types from server
-11.11.2023 18:54:23 [Notification] Loaded 9274 block types from server
-11.11.2023 18:54:24 [Notification] Reloaded sounds, now with mod assets
-11.11.2023 18:54:24 [Notification] Composed 1 4096x2048 entities texture atlases from 409 textures
-11.11.2023 18:54:24 [Notification] Collected 1829 shapes to tesselate.
-11.11.2023 18:54:24 [Notification] Server launched
-11.11.2023 18:54:24 [Notification] Composed 1 4096x2048 items texture atlases from 1618 textures
-11.11.2023 18:54:25 [Notification] Composed 1 4096x2048 blocks texture atlases from 4389 textures
-11.11.2023 18:54:25 [Notification] Server assets loaded
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass anvilworkitem.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass lines.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass aurora.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass rift.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass sleepoverlay.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass machinegear.
-11.11.2023 18:54:26 [Notification] Started 66 systems on Client:
-11.11.2023 18:54:26 [Notification]     Mod 'VSEssentials.dll' (game):
-11.11.2023 18:54:26 [Notification]         Vintagestory.ServerMods.Core
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.EntityPartitioning
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.ErrorReporter
-11.11.2023 18:54:26 [Notification]         Vintagestory.ServerMods.ModCompatiblityUtil
-11.11.2023 18:54:26 [Notification]         Vintagestory.ServerMods.NoObf.ModJsonPatchLoader
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.ModSystemDormancyStateChecker
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.ModSystemItemRendererOptimizer
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.FallingBlockParticlesModSystem
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.CharacterExtraDialogs
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.EntityNameTagRendererRegistry
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.POIRegistry
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.RoomRegistry
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.WeatherSystemCommands
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.WeatherSystemClient
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.WorldMapManager
-11.11.2023 18:54:26 [Notification]         Vintagestory.ServerMods.LoadColorMaps
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.ClothManager
-11.11.2023 18:54:26 [Notification]     Mod 'VSSurvivalMod.dll' (survival):
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.ModSystemControlPoints
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.SurvivalCoreSystem
-11.11.2023 18:54:26 [Notification]         Vintagestory.Client.NoObf.ModSystemBossHealthBars
-11.11.2023 18:54:26 [Notification]         Vintagestory.ServerMods.DebugSystem
-11.11.2023 18:54:26 [Notification]         Vintagestory.ServerMods.UpgradeTasks
-11.11.2023 18:54:26 [Notification]         Vintagestory.ServerMods.ModSystemDetailModeSync
-11.11.2023 18:54:26 [Notification]         Vintagestory.ServerMods.ModSystemTiledDungeonGenerator
-11.11.2023 18:54:26 [Notification]         Vintagestory.ServerMods.GenFromHeightmap
-11.11.2023 18:54:26 [Notification]         Vintagestory.ServerMods.GenMaps
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.MyceliumSystem
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.ModSystemCatchCreature
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.ModSystemGliding
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.ModSystemMeasuringRope
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.ScreenshakeToClientModSystem
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.ResoArchivesSpawnConditions
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.ModSystemAuction
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.ModSystemBlockReinforcement
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.Core
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.ModSystemBoatingSound
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.CharacterSystem
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.MealMeshCache
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.DialogueSystem
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.FruitingSystem
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.ModSystemCommandHandbook
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.ModSystemSurvivalHandbook
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.ModSystemTutorial
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.ModSystemNightVision
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.ModJournal
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.LiquidItemStackRenderer
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.ModSystemStructureLocator
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.ModLootRandomizer
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.MicroBlockModelCache
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.ModSystemRifts
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.ModSystemRiftWeather
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.ModSleeping
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.ModSystemSupportBeamPlacer
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.TeleporterManager
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.ModTemperature
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.SystemTemporalStability
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.TemporalStabilityEffects
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.ModSystemWearableStats
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.ModSystemEditableBook
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.Mechanics.MechanicalPowerMod
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.TradeHandbookInfo
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.RecipeRegistrySystem
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.ModSystemOreMap
-11.11.2023 18:54:26 [Notification]         Vintagestory.GameContent.TraderOutfits
-11.11.2023 18:54:26 [Notification]     Mod 'VSCreativeMod.dll' (creative):
-11.11.2023 18:54:26 [Notification]         Vintagestory.ServerMods.Core
-11.11.2023 18:54:26 [Notification]         Vintagestory.ServerMods.WorldEdit.WorldEdit
-11.11.2023 18:54:26 [Notification] Loading shaders...
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass standard.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass particlescube.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass particlesquad.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass sky.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass nightsky.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass woittest.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass transparentcompose.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass debugdepthbuffer.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass helditem.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass chunkopaque.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass chunkliquid.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass decals.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass final.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass gui.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass blur.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass chunktransparent.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass findbright.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass chunktopsoil.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass godrays.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass autocamera.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass blockhighlights.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass wireframe.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass entityanimated.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass luma.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass blit.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass particlesquad2d.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass shadowmapentityanimated.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass shadowmapgeneric.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass texture2texture.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass celestialobject.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass guitopsoil.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass colorgrade.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass guigear.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass ssao.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass bilateralblur.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass anvilworkitem.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass lines.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass aurora.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass rift.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass sleepoverlay.
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass machinegear.
-11.11.2023 18:54:26 [Notification] Reloaded shaders now with mod assets
-11.11.2023 18:54:26 [Notification] Received level init
-11.11.2023 18:54:26 [Notification] Loaded Shaderprogramm for render pass instanced.
-11.11.2023 18:54:26 [Notification] Initialized Music Engine
-11.11.2023 18:54:26 [Notification] Blocks tesselated
-11.11.2023 18:54:26 [Notification] Texture size is 32 so decal atlas size of 128x128 should suffice
-11.11.2023 18:54:27 [Notification] Received level finalize
-11.11.2023 18:54:27 [Error] Could not load sound
-11.11.2023 18:54:27 [Error] Exception: The specified sound format is not supported.
-   at Vintagestory.Client.AudioOpenAl.GetSoundFormat(Int32 channels, Int32 bits) in VintagestoryLib\Client\ClientPlatform\ClientNative\AudioOpenAl.cs:line 168
-   at Vintagestory.Client.LoadedSoundNative.createSoundSource() in VintagestoryLib\Client\ClientPlatform\ClientNative\LoadedSound.cs:line 234
-11.11.2023 18:54:27 [Notification] Loaded Shaderprogramm for render pass clouds.
-11.11.2023 18:54:27 [Notification] Loading world map cache db...
-11.11.2023 18:54:27 [Warning] ===============================================================
-11.11.2023 18:54:27 [Warning] (x_x) Captured 5 issues during startup:
-11.11.2023 18:54:27 [Warning] MeshRef with vao id 12698 with 2706 indices is leaking memory, missing call to Dispose. Set env var VAO_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:27 [Warning] Texture with texture id 507 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:27 [Warning] Texture with texture id 49 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:54:27 [Error] Could not load sound
-11.11.2023 18:54:27 [Error] Exception: The specified sound format is not supported.
-   at Vintagestory.Client.AudioOpenAl.GetSoundFormat(Int32 channels, Int32 bits) in VintagestoryLib\Client\ClientPlatform\ClientNative\AudioOpenAl.cs:line 168
-   at Vintagestory.Client.LoadedSoundNative.createSoundSource() in VintagestoryLib\Client\ClientPlatform\ClientNative\LoadedSound.cs:line 234
-11.11.2023 18:54:27 [Warning] ===============================================================
-11.11.2023 18:54:28 [Notification] Track music/nostalgic.ogg now started
-11.11.2023 18:54:34 [Notification] Client pause state is now on
-11.11.2023 18:54:39 [Notification] Finished fully loading sounds (async)
-11.11.2023 18:55:03 [Notification] Client pause state is now off
-11.11.2023 18:55:05 [Notification] Client pause state is now on
-11.11.2023 18:55:14 [Notification] Client pause state is now off
-11.11.2023 18:55:53 [Notification] Client pause state is now on
-11.11.2023 18:56:02 [Notification] Client pause state is now off
-11.11.2023 18:56:13 [Warning] Texture with texture id 848 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:56:13 [Warning] Texture with texture id 702 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:56:13 [Warning] Texture with texture id 847 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:56:13 [Warning] Texture with texture id 442 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:56:13 [Warning] Texture with texture id 430 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:56:13 [Warning] Texture with texture id 435 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:56:13 [Warning] Texture with texture id 439 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:56:13 [Warning] Texture with texture id 431 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:56:13 [Warning] Texture with texture id 434 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:56:13 [Warning] Texture with texture id 432 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:56:13 [Warning] Texture with texture id 433 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:56:13 [Warning] Texture with texture id 441 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:56:13 [Warning] Texture with texture id 440 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:56:13 [Warning] Texture with texture id 429 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:56:13 [Warning] Texture with texture id 436 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:56:13 [Warning] Texture with texture id 438 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:56:13 [Warning] Texture with texture id 437 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:56:13 [Warning] Texture with texture id 364 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:56:13 [Warning] Texture with texture id 362 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:56:13 [Warning] Texture with texture id 363 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 18:59:04 [Notification] Client pause state is now on
-11.11.2023 18:59:07 [Notification] Client pause state is now off
-11.11.2023 18:59:08 [Notification] Client pause state is now on
-11.11.2023 18:59:11 [Notification] Client pause state is now off
-11.11.2023 18:59:31 [Error] The dialog GuiDialogBlockEntityRecipeSelector requested focus, but was not added yet. Missing call to api.Gui.RegisterDialog()
-11.11.2023 18:59:50 [Error] The dialog GuiDialogBlockEntityRecipeSelector requested focus, but was not added yet. Missing call to api.Gui.RegisterDialog()
-11.11.2023 19:00:05 [Notification] Track music/spring.ogg now started
-11.11.2023 19:00:07 [Error] The dialog GuiDialogBlockEntityRecipeSelector requested focus, but was not added yet. Missing call to api.Gui.RegisterDialog()
-11.11.2023 19:00:23 [Error] The dialog GuiDialogBlockEntityRecipeSelector requested focus, but was not added yet. Missing call to api.Gui.RegisterDialog()
-11.11.2023 19:04:40 [Warning] Texture with texture id 997 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 19:05:51 [Warning] Texture with texture id 361 is leaking memory, missing call to Dispose. Set env var TEXTURE_DEBUG_DISPOSE to get allocation trace.
-11.11.2023 19:06:51 [Notification] Track music/building.ogg now started
-11.11.2023 19:09:51 [Notification] Client pause state is now on
-11.11.2023 19:09:55 [Notification] Client pause state is now off
-11.11.2023 19:09:58 [Notification] Track music/vintagestory.ogg now started
-11.11.2023 19:10:20 [Notification] Window was resized to 0 0? Window probably got minimized. Will not rebuild frame buffers
-11.11.2023 19:13:06 [Notification] Track music/adventuring.ogg now started
-11.11.2023 19:22:23 [Notification] Window was resized to 0 0? Window probably got minimized. Will not rebuild frame buffers
-11.11.2023 19:23:17 [Notification] Window was resized to 0 0? Window probably got minimized. Will not rebuild frame buffers
-11.11.2023 19:24:24 [Notification] Track music/through-the-grass-survive.ogg now started
-11.11.2023 19:25:05 [Notification] Window was resized to 0 0? Window probably got minimized. Will not rebuild frame buffers
-11.11.2023 19:26:13 [Notification] Client pause state is now on
-11.11.2023 19:26:16 [Notification] Client pause state is now off
-11.11.2023 19:26:21 [Notification] Client pause state is now on
-11.11.2023 19:26:39 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-1, item wont drop.
-11.11.2023 19:26:39 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-2, item wont drop.
-11.11.2023 19:26:39 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-3, item wont drop.
-11.11.2023 19:26:39 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-4, item wont drop.
-11.11.2023 19:26:39 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-5, item wont drop.
-11.11.2023 19:26:39 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-6, item wont drop.
-11.11.2023 19:26:39 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-7, item wont drop.
-11.11.2023 19:26:39 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-9, item wont drop.
-11.11.2023 19:27:05 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-2, item wont drop.
-11.11.2023 19:27:05 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-3, item wont drop.
-11.11.2023 19:27:05 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-4, item wont drop.
-11.11.2023 19:27:05 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-5, item wont drop.
-11.11.2023 19:27:05 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-7, item wont drop.
-11.11.2023 19:27:05 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-9, item wont drop.
-11.11.2023 19:27:09 [Notification] Client pause state is now off
-11.11.2023 19:27:09 [Notification] Track music/midnight.ogg now started
-11.11.2023 19:29:28 [Notification] Track music/to-dawn.ogg now started
-11.11.2023 19:34:44 [Notification] Track music/night-to-day.ogg now started
-11.11.2023 19:36:54 [Notification] Track music/setting-sun.ogg now started
-11.11.2023 19:38:04 [Notification] Client pause state is now on
-11.11.2023 19:38:12 [Notification] Client pause state is now off
-11.11.2023 19:38:13 [Notification] Client pause state is now on
-11.11.2023 19:38:55 [Notification] Client pause state is now off
-11.11.2023 19:38:55 [Notification] Track music/groove.ogg now started
-11.11.2023 19:38:57 [Notification] Loading shaders...
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass standard.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass particlescube.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass particlesquad.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass sky.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass nightsky.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass woittest.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass transparentcompose.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass debugdepthbuffer.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass helditem.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass chunkopaque.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass chunkliquid.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass decals.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass final.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass gui.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass blur.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass chunktransparent.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass findbright.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass chunktopsoil.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass godrays.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass autocamera.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass blockhighlights.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass wireframe.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass entityanimated.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass luma.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass blit.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass particlesquad2d.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass shadowmapentityanimated.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass shadowmapgeneric.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass texture2texture.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass celestialobject.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass guitopsoil.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass colorgrade.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass guigear.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass ssao.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass bilateralblur.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass anvilworkitem.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass lines.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass aurora.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass rift.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass sleepoverlay.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass machinegear.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass instanced.
-11.11.2023 19:38:57 [Notification] Loaded Shaderprogramm for render pass clouds.
-11.11.2023 19:38:57 [Notification] Shaders reloaded.
-11.11.2023 19:42:28 [Notification] Track music/spring.ogg now started
-11.11.2023 19:49:12 [Notification] Track music/nostalgic.ogg now started
-11.11.2023 19:54:47 [Notification] Track music/building.ogg now started
-11.11.2023 19:54:57 [Notification] Window was resized to 0 0? Window probably got minimized. Will not rebuild frame buffers
-11.11.2023 19:55:54 [Notification] Window was resized to 0 0? Window probably got minimized. Will not rebuild frame buffers
-11.11.2023 19:57:46 [Notification] Client pause state is now on
-11.11.2023 19:59:28 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-3, item wont drop.
-11.11.2023 19:59:28 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-4, item wont drop.
-11.11.2023 19:59:44 [Notification] Client pause state is now off
-11.11.2023 19:59:44 [Notification] Track music/vintagestory.ogg now started
-11.11.2023 20:01:46 [Notification] Client pause state is now on
-11.11.2023 20:01:58 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-2, item wont drop.
-11.11.2023 20:01:58 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-4, item wont drop.
-11.11.2023 20:01:58 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-9, item wont drop.
-11.11.2023 20:02:13 [Notification] Client pause state is now off
-11.11.2023 20:02:51 [Notification] Track music/hallowcroft.ogg now started
-11.11.2023 20:08:34 [Notification] Track music/adventuring.ogg now started
-11.11.2023 20:15:03 [Notification] Track music/through-the-grass-survive.ogg now started
-11.11.2023 20:17:50 [Notification] Track music/midnight.ogg now started
-11.11.2023 20:18:24 [Notification] Client pause state is now on
-11.11.2023 20:18:30 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-2, item wont drop.
-11.11.2023 20:18:30 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-3, item wont drop.
-11.11.2023 20:18:30 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-5, item wont drop.
-11.11.2023 20:18:30 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-9, item wont drop.
-11.11.2023 20:18:39 [Notification] Client pause state is now off
-11.11.2023 20:24:12 [Notification] Track music/to-dawn.ogg now started
-11.11.2023 20:25:27 [Notification] Window was resized to 0 0? Window probably got minimized. Will not rebuild frame buffers
-11.11.2023 20:26:33 [Notification] Window was resized to 0 0? Window probably got minimized. Will not rebuild frame buffers
-11.11.2023 20:27:10 [Notification] Window was resized to 0 0? Window probably got minimized. Will not rebuild frame buffers
-11.11.2023 20:29:23 [Notification] Window was resized to 0 0? Window probably got minimized. Will not rebuild frame buffers
-11.11.2023 20:29:27 [Notification] Track music/groove.ogg now started
-11.11.2023 20:32:01 [Notification] Destroying game session, waiting up to 200ms for client threads to exit
-11.11.2023 20:32:02 [Notification] Stopping single player server
-11.11.2023 20:32:03 [Notification] Exiting current game to main menu, reason: window close event
+12.11.2023 01:15:06 [Notification] Client logger started.
+12.11.2023 01:15:06 [Notification] Game Version: v1.19.0-pre.5 (Unstable)
+12.11.2023 01:15:06 [Notification] OpenAL Initialized. Available Mono/Stereo Sources: 255/1
+12.11.2023 01:15:06 [Notification] Process path: C:\Games\VintageStory\1.19.0-pre.5\PlayVintageStory.exe
+12.11.2023 01:15:06 [Notification] Operating System: Windows 10.0.19045.0
+12.11.2023 01:15:06 [Notification] CPU Cores: 6
+12.11.2023 01:15:06 [Notification] Available RAM: 16302 MB
+12.11.2023 01:15:06 [Notification] Graphics Card Vendor: NVIDIA Corporation
+12.11.2023 01:15:06 [Notification] Graphics Card Version: 3.3.0 NVIDIA 546.01
+12.11.2023 01:15:06 [Notification] Graphics Card Renderer: NVIDIA GeForce GTX 1660/PCIe/SSE2
+12.11.2023 01:15:06 [Notification] Graphics Card ShadingLanguageVersion: 3.30 NVIDIA via Cg compiler
+12.11.2023 01:15:06 [Notification] GL.MaxVertexUniformComponents: 4096
+12.11.2023 01:15:06 [Notification] GL.MaxUniformBlockSize: 65536
+12.11.2023 01:15:06 [Notification] Cairo Graphics Version: 1.17.3
+12.11.2023 01:15:06 [Notification] OpenAL Version: 1.1 ALSOFT 1.23.0
+12.11.2023 01:15:06 [Notification] C# Framework: .net 7.0.12
+12.11.2023 01:15:06 [Notification] Zstd Version: 1.5.5
+12.11.2023 01:15:07 [Notification] Start discovering assets
+12.11.2023 01:15:07 [Notification] Found 23 base assets in category lang
+12.11.2023 01:15:07 [Notification] Found 0 base assets in category patches
+12.11.2023 01:15:07 [Notification] Found 23 base assets in category config
+12.11.2023 01:15:07 [Notification] Found 0 base assets in category worldproperties
+12.11.2023 01:15:07 [Notification] Found 46 base assets in category sounds
+12.11.2023 01:15:07 [Notification] Found 92 base assets in category shapes
+12.11.2023 01:15:07 [Notification] Found 72 base assets in category shaders
+12.11.2023 01:15:07 [Notification] Found 16 base assets in category shaderincludes
+12.11.2023 01:15:07 [Notification] Found 131 base assets in category textures
+12.11.2023 01:15:07 [Notification] Found 4 base assets in category music
+12.11.2023 01:15:07 [Notification] Found 0 base assets in category dialog
+12.11.2023 01:15:07 [Notification] Found 407 base assets in total
+12.11.2023 01:15:07 [Notification] Loading sounds
+12.11.2023 01:15:07 [Notification] Sounds loaded
+12.11.2023 01:15:07 [Notification] (Re-)loaded frame buffers
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass .
+12.11.2023 01:15:07 [Notification] Begin loading shaders
+12.11.2023 01:15:07 [Notification] Load shaders now
+12.11.2023 01:15:07 [Notification] Loading shaders...
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass standard.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass particlescube.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass particlesquad.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass sky.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass nightsky.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass woittest.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass transparentcompose.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass debugdepthbuffer.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass helditem.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass chunkopaque.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass chunkliquid.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass decals.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass final.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass gui.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass blur.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass chunktransparent.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass findbright.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass chunktopsoil.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass godrays.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass autocamera.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass blockhighlights.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass wireframe.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass entityanimated.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass luma.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass blit.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass particlesquad2d.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass shadowmapentityanimated.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass shadowmapgeneric.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass texture2texture.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass celestialobject.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass guitopsoil.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass colorgrade.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass guigear.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass ssao.
+12.11.2023 01:15:07 [Notification] Loaded Shaderprogramm for render pass bilateralblur.
+12.11.2023 01:15:07 [Notification] Cached session key is valid, validating with server
+12.11.2023 01:15:07 [Notification] Server validation response: Good
+12.11.2023 01:15:07 [Notification] Will search the following paths for mods:
+12.11.2023 01:15:07 [Notification]     C:\Games\VintageStory\1.19.0-pre.5\Mods
+12.11.2023 01:15:07 [Notification]     C:\Users\Dmytro\AppData\Roaming\VintagestoryData\Mods
+12.11.2023 01:15:14 [Notification] Initialized GUI Manager
+12.11.2023 01:15:14 [Notification] Initialized Server Connection
+12.11.2023 01:15:14 [Notification] Server args parsed
+12.11.2023 01:15:14 [Notification] Server main instantiated
+12.11.2023 01:15:18 [Notification] Processed server identification
+12.11.2023 01:15:18 [Notification] Map initialized
+12.11.2023 01:15:18 [Notification] Received server assets
+12.11.2023 01:15:18 [Notification] Loading and pre-starting client side mods...
+12.11.2023 01:15:18 [Notification] Will search the following paths for mods:
+12.11.2023 01:15:18 [Notification]     C:\Games\VintageStory\1.19.0-pre.5\Mods
+12.11.2023 01:15:18 [Notification]     C:\Users\Dmytro\AppData\Roaming\VintagestoryData\Mods
+12.11.2023 01:15:18 [Notification] Found 3 mods (0 disabled)
+12.11.2023 01:15:18 [Notification] Mods, sorted by dependency: game, creative, survival
+12.11.2023 01:15:18 [Notification] Instantiated 106 mod systems from 3 enabled mods
+12.11.2023 01:15:18 [Notification] Done loading and pre-starting client side mods.
+12.11.2023 01:15:19 [Notification] External Origins in load order: modorigin@C:\Games\VintageStory\1.19.0-pre.5\assets\creative\, modorigin@C:\Games\VintageStory\1.19.0-pre.5\assets\survival\
+12.11.2023 01:15:19 [Notification] Found 0 external assets in category lang
+12.11.2023 01:15:19 [Notification] Found 9 external assets in category patches
+12.11.2023 01:15:19 [Notification] Found 67 external assets in category config
+12.11.2023 01:15:19 [Notification] Found 25 external assets in category worldproperties
+12.11.2023 01:15:19 [Notification] Found 394 external assets in category sounds
+12.11.2023 01:15:19 [Notification] Found 3409 external assets in category shapes
+12.11.2023 01:15:19 [Notification] Found 13 external assets in category shaders
+12.11.2023 01:15:19 [Notification] Found 0 external assets in category shaderincludes
+12.11.2023 01:15:19 [Notification] Found 5478 external assets in category textures
+12.11.2023 01:15:19 [Notification] Found 67 external assets in category music
+12.11.2023 01:15:19 [Notification] Found 18 external assets in category dialog
+12.11.2023 01:15:19 [Notification] Found 0 external assets in category compatibility
+12.11.2023 01:15:19 [Notification] Reloaded lang file now with mod assets
+12.11.2023 01:15:19 [Notification] Compatibility lib: 0 assets added, 0 assets replaced.
+12.11.2023 01:15:19 [Notification] JsonPatch Loader: 13 патчей всего, успешно применено 6 патчей, невыполненны условия в 19 патчах, нет проблем
+12.11.2023 01:15:19 [Notification] Received 3094 item types from server
+12.11.2023 01:15:19 [Notification] Loaded 9274 block types from server
+12.11.2023 01:15:19 [Notification] Reloaded sounds, now with mod assets
+12.11.2023 01:15:20 [Notification] Composed 1 4096x2048 entities texture atlases from 409 textures
+12.11.2023 01:15:20 [Notification] Collected 1829 shapes to tesselate.
+12.11.2023 01:15:20 [Notification] Composed 1 4096x2048 items texture atlases from 1618 textures
+12.11.2023 01:15:21 [Notification] Server launched
+12.11.2023 01:15:22 [Notification] Composed 1 4096x2048 blocks texture atlases from 4389 textures
+12.11.2023 01:15:22 [Notification] Server assets loaded
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass anvilworkitem.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass lines.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass aurora.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass rift.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass sleepoverlay.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass machinegear.
+12.11.2023 01:15:22 [Notification] Started 66 systems on Client:
+12.11.2023 01:15:22 [Notification]     Mod 'VSEssentials.dll' (game):
+12.11.2023 01:15:22 [Notification]         Vintagestory.ServerMods.Core
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.EntityPartitioning
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.ErrorReporter
+12.11.2023 01:15:22 [Notification]         Vintagestory.ServerMods.ModCompatiblityUtil
+12.11.2023 01:15:22 [Notification]         Vintagestory.ServerMods.NoObf.ModJsonPatchLoader
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.ModSystemDormancyStateChecker
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.ModSystemItemRendererOptimizer
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.FallingBlockParticlesModSystem
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.CharacterExtraDialogs
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.EntityNameTagRendererRegistry
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.POIRegistry
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.RoomRegistry
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.WeatherSystemCommands
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.WeatherSystemClient
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.WorldMapManager
+12.11.2023 01:15:22 [Notification]         Vintagestory.ServerMods.LoadColorMaps
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.ClothManager
+12.11.2023 01:15:22 [Notification]     Mod 'VSSurvivalMod.dll' (survival):
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.ModSystemControlPoints
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.SurvivalCoreSystem
+12.11.2023 01:15:22 [Notification]         Vintagestory.Client.NoObf.ModSystemBossHealthBars
+12.11.2023 01:15:22 [Notification]         Vintagestory.ServerMods.DebugSystem
+12.11.2023 01:15:22 [Notification]         Vintagestory.ServerMods.UpgradeTasks
+12.11.2023 01:15:22 [Notification]         Vintagestory.ServerMods.ModSystemDetailModeSync
+12.11.2023 01:15:22 [Notification]         Vintagestory.ServerMods.ModSystemTiledDungeonGenerator
+12.11.2023 01:15:22 [Notification]         Vintagestory.ServerMods.GenFromHeightmap
+12.11.2023 01:15:22 [Notification]         Vintagestory.ServerMods.GenMaps
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.MyceliumSystem
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.ModSystemCatchCreature
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.ModSystemGliding
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.ModSystemMeasuringRope
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.ScreenshakeToClientModSystem
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.ResoArchivesSpawnConditions
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.ModSystemAuction
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.ModSystemBlockReinforcement
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.Core
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.ModSystemBoatingSound
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.CharacterSystem
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.MealMeshCache
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.DialogueSystem
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.FruitingSystem
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.ModSystemCommandHandbook
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.ModSystemSurvivalHandbook
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.ModSystemTutorial
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.ModSystemNightVision
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.ModJournal
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.LiquidItemStackRenderer
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.ModSystemStructureLocator
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.ModLootRandomizer
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.MicroBlockModelCache
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.ModSystemRifts
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.ModSystemRiftWeather
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.ModSleeping
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.ModSystemSupportBeamPlacer
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.TeleporterManager
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.ModTemperature
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.SystemTemporalStability
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.TemporalStabilityEffects
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.ModSystemWearableStats
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.ModSystemEditableBook
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.Mechanics.MechanicalPowerMod
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.TradeHandbookInfo
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.RecipeRegistrySystem
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.ModSystemOreMap
+12.11.2023 01:15:22 [Notification]         Vintagestory.GameContent.TraderOutfits
+12.11.2023 01:15:22 [Notification]     Mod 'VSCreativeMod.dll' (creative):
+12.11.2023 01:15:22 [Notification]         Vintagestory.ServerMods.Core
+12.11.2023 01:15:22 [Notification]         Vintagestory.ServerMods.WorldEdit.WorldEdit
+12.11.2023 01:15:22 [Notification] Loading shaders...
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass standard.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass particlescube.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass particlesquad.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass sky.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass nightsky.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass woittest.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass transparentcompose.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass debugdepthbuffer.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass helditem.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass chunkopaque.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass chunkliquid.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass decals.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass final.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass gui.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass blur.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass chunktransparent.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass findbright.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass chunktopsoil.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass godrays.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass autocamera.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass blockhighlights.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass wireframe.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass entityanimated.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass luma.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass blit.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass particlesquad2d.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass shadowmapentityanimated.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass shadowmapgeneric.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass texture2texture.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass celestialobject.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass guitopsoil.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass colorgrade.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass guigear.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass ssao.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass bilateralblur.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass anvilworkitem.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass lines.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass aurora.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass rift.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass sleepoverlay.
+12.11.2023 01:15:22 [Notification] Loaded Shaderprogramm for render pass machinegear.
+12.11.2023 01:15:22 [Notification] Reloaded shaders now with mod assets
+12.11.2023 01:15:23 [Notification] Received level init
+12.11.2023 01:15:23 [Notification] Loaded Shaderprogramm for render pass instanced.
+12.11.2023 01:15:23 [Notification] Initialized Music Engine
+12.11.2023 01:15:23 [Notification] Texture size is 32 so decal atlas size of 128x128 should suffice
+12.11.2023 01:15:23 [Notification] Blocks tesselated
+12.11.2023 01:15:24 [Notification] Received level finalize
+12.11.2023 01:15:24 [Notification] Loaded Shaderprogramm for render pass clouds.
+12.11.2023 01:15:24 [Notification] Loading world map cache db...
+12.11.2023 01:15:24 [Notification] ===============================================================
+12.11.2023 01:15:24 [Notification] (^_^) No issues captured during startup
+12.11.2023 01:15:24 [Notification] ===============================================================
+12.11.2023 01:15:34 [Notification] Track music/to-dawn.ogg now started
+12.11.2023 01:15:35 [Notification] Finished fully loading sounds (async)
+12.11.2023 01:16:14 [Notification] Wow, client daytime drifted off significantly from server daytime (25.8 mins)
+12.11.2023 01:16:37 [Error] The dialog GuiDialogBlockEntityRecipeSelector requested focus, but was not added yet. Missing call to api.Gui.RegisterDialog()
+12.11.2023 01:20:51 [Notification] Track music/through-the-grass-survive.ogg now started
+12.11.2023 01:21:28 [Error] The dialog GuiDialogBlockEntityRecipeSelector requested focus, but was not added yet. Missing call to api.Gui.RegisterDialog()
+12.11.2023 01:22:58 [Notification] Track music/setting-sun.ogg now started
+12.11.2023 01:24:32 [Notification] Track music/night-to-day.ogg now started
+12.11.2023 01:26:43 [Notification] Track music/groove.ogg now started
+12.11.2023 01:26:55 [Notification] Client pause state is now on
+12.11.2023 01:27:06 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-2, item wont drop.
+12.11.2023 01:27:06 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-3, item wont drop.
+12.11.2023 01:27:06 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-5, item wont drop.
+12.11.2023 01:27:06 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-6, item wont drop.
+12.11.2023 01:27:22 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-2, item wont drop.
+12.11.2023 01:27:22 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-4, item wont drop.
+12.11.2023 01:27:22 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-6, item wont drop.
+12.11.2023 01:27:22 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-7, item wont drop.
+12.11.2023 01:27:22 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-8, item wont drop.
+12.11.2023 01:27:22 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-9, item wont drop.
+12.11.2023 01:27:35 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-1, item wont drop.
+12.11.2023 01:27:35 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-2, item wont drop.
+12.11.2023 01:27:35 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-3, item wont drop.
+12.11.2023 01:27:35 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-5, item wont drop.
+12.11.2023 01:27:35 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-7, item wont drop.
+12.11.2023 01:27:37 [Notification] Client pause state is now off
+12.11.2023 01:27:54 [Notification] Client pause state is now on
+12.11.2023 01:27:54 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-1, item wont drop.
+12.11.2023 01:27:54 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-2, item wont drop.
+12.11.2023 01:27:54 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-4, item wont drop.
+12.11.2023 01:27:54 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-5, item wont drop.
+12.11.2023 01:27:54 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-7, item wont drop.
+12.11.2023 01:28:03 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-1, item wont drop.
+12.11.2023 01:28:03 [Warning] Unable to resolve loot vessel drop game:tuningcylinder-4, item wont drop.
+12.11.2023 01:28:04 [Notification] Client pause state is now off
+12.11.2023 01:30:16 [Notification] Track music/spring.ogg now started
+12.11.2023 01:37:01 [Notification] Track music/building.ogg now started
+12.11.2023 01:40:09 [Notification] Track music/daylight.ogg now started
+12.11.2023 01:44:31 [Notification] Client pause state is now on
+12.11.2023 01:44:33 [Notification] Destroying game session, waiting up to 200ms for client threads to exit
+12.11.2023 01:44:33 [Notification] Stopping single player server
+12.11.2023 01:44:34 [Notification] Exiting current game to main menu, reason: leave world button pressed
+12.11.2023 01:44:38 [Notification] Exiting game now. Server running=False. Exit reason: Main screen quit button was pressed
+12.11.2023 01:44:38 [Warning] OpenAL Error during disposestop of sound game:sounds/menubutton_press.ogg: IllegalCommand
+12.11.2023 01:44:38 [Warning] OpenAL Error during dispose of sound game:sounds/menubutton_press.ogg: IllegalCommand
