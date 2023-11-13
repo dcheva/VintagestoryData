@@ -36,7 +36,28 @@
       "Shift": false
     },
     "screenshot": {
-      "KeyCode": 19,
+      "KeyCode": 62,
+      "SecondKeyCode": null,
+      "Ctrl": false,
+      "Alt": false,
+      "Shift": false
+    },
+    "megascreenshot": {
+      "KeyCode": 62,
+      "SecondKeyCode": null,
+      "Ctrl": true,
+      "Alt": false,
+      "Shift": false
+    },
+    "zoomout": {
+      "KeyCode": 120,
+      "SecondKeyCode": null,
+      "Ctrl": false,
+      "Alt": false,
+      "Shift": false
+    },
+    "fliphandslots": {
+      "KeyCode": 119,
       "SecondKeyCode": null,
       "Ctrl": false,
       "Alt": false,
@@ -61,7 +82,7 @@
     "audioDevice": null,
     "playeruid": "Dee.Covan@gmail.com",
     "playername": "DeeCovan",
-    "lastSkinSelection": "baseskin:skin8,eyecolor:malachite,underwear:breeches,voicetype:harmonica,voicepitch:verylow,hairbase:short,hairextra:elaboratestickbun,facialexpression:upset,mustache:none,beard:none,haircolor:slategray",
+    "lastSkinSelection": "baseskin:skin9,eyecolor:jade,underwear:breeches,voicetype:tuba,voicepitch:medium,hairbase:short-trimmed,hairextra:thicklongfrenchbraid,facialexpression:sad,mustache:mst-line05-seargent,beard:brd-chin20-goateehorns,haircolor:heliotropegray",
     "currentHandbookCategoryCode": "tutorial"
   },
   "intSettings": {

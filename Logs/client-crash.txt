@@ -56,3 +56,97 @@ System.NullReferenceException: Object reference not set to an instance of an obj
    at Vintagestory.Client.ClientProgram.Start(ClientProgramArgs args, String[] rawArgs) in VintagestoryLib\Client\ClientProgram.cs:line 322
    at Vintagestory.Client.ClientProgram.<>c__DisplayClass9_0.<.ctor>b__1() in VintagestoryLib\Client\ClientProgram.cs:line 128
    at Vintagestory.ClientNative.CrashReporter.Start(ThreadStart start) in VintagestoryLib\Client\ClientPlatform\ClientNative\CrashReporter.cs:line 93
+Game Version: v1.19.0-pre.5 (Unstable)
+13-Nov-23 16:10:38: Critical error occurred
+Loaded Mods: game@1.19.0-pre.5, creative@1.19.0-pre.5, survival@1.19.0-pre.5
+System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.ThrowHelper.ThrowNoMatchException()
+   at Vintagestory.GameContent.MicroBlockSounds.get_block() in VSSurvivalMod\Systems\Microblock\BlockMicroBlock.cs:line 45
+   at Vintagestory.GameContent.MicroBlockSounds.get_ByTool() in VSSurvivalMod\Systems\Microblock\BlockMicroBlock.cs:line 24
+   at Vintagestory.API.Common.BlockSounds.GetHitSound(EnumTool tool) in VintagestoryApi\Common\Collectible\Block\BlockSounds.cs:line 92
+   at Vintagestory.API.Common.BlockSounds.GetHitSound(IPlayer byPlayer) in VintagestoryApi\Common\Collectible\Block\BlockSounds.cs:line 67
+   at Vintagestory.API.Common.Block.OnGettingBroken(IPlayer player, BlockSelection blockSel, ItemSlot itemslot, Single remainingResistance, Single dt, Int32 counter) in VintagestoryApi\Common\Collectible\Block\Block.cs:line 961
+   at Vintagestory.Client.NoObf.SystemMouseInWorldInteractions.ContinueBreakSurvival(BlockSelection blockSelection, Block block, Single dt) in VintagestoryLib\Client\Systems\Player\MouseInWorldInteractions.cs:line 807
+   at Vintagestory.Client.NoObf.SystemMouseInWorldInteractions.HandleMouseInteractionsBlockSelected(Single dt) in VintagestoryLib\Client\Systems\Player\MouseInWorldInteractions.cs:line 456
+   at Vintagestory.Client.NoObf.SystemMouseInWorldInteractions.OnFinalizeFrame(Single dt) in VintagestoryLib\Client\Systems\Player\MouseInWorldInteractions.cs:line 101
+   at Vintagestory.Client.NoObf.ClientEventManager.TriggerRenderStage(EnumRenderStage stage, Single dt) in VintagestoryLib\Client\Util\ClientEventManager.cs:line 185
+   at Vintagestory.Client.NoObf.ClientMain.TriggerRenderStage(EnumRenderStage stage, Single dt) in VintagestoryLib\Client\ClientMain.cs:line 796
+   at Vintagestory.Client.NoObf.ClientMain.RenderToDefaultFramebuffer(Single dt) in VintagestoryLib\Client\ClientMain.cs:line 989
+   at Vintagestory.Client.ScreenManager.Render(Single dt) in VintagestoryLib\Client\ScreenManager.cs:line 668
+   at Vintagestory.Client.ScreenManager.OnNewFrame(Single dt) in VintagestoryLib\Client\ScreenManager.cs:line 643
+   at Vintagestory.Client.NoObf.ClientPlatformWindows.window_RenderFrame(FrameEventArgs e) in VintagestoryLib\Client\ClientPlatform\GameWindow.cs:line 78
+   at OpenTK.Windowing.Desktop.GameWindow.Run()
+   at Vintagestory.Client.ClientProgram.Start(ClientProgramArgs args, String[] rawArgs) in VintagestoryLib\Client\ClientProgram.cs:line 322
+   at Vintagestory.Client.ClientProgram.<>c__DisplayClass9_0.<.ctor>b__1() in VintagestoryLib\Client\ClientProgram.cs:line 128
+   at Vintagestory.ClientNative.CrashReporter.Start(ThreadStart start) in VintagestoryLib\Client\ClientPlatform\ClientNative\CrashReporter.cs:line 93
+Game Version: v1.19.0-pre.5 (Unstable)
+13-Nov-23 16:11:59: Critical error occurred
+Loaded Mods: game@1.19.0-pre.5, creative@1.19.0-pre.5, survival@1.19.0-pre.5
+System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.ThrowHelper.ThrowNoMatchException()
+   at Vintagestory.GameContent.MicroBlockSounds.get_block() in VSSurvivalMod\Systems\Microblock\BlockMicroBlock.cs:line 45
+   at Vintagestory.GameContent.MicroBlockSounds.get_ByTool() in VSSurvivalMod\Systems\Microblock\BlockMicroBlock.cs:line 24
+   at Vintagestory.API.Common.BlockSounds.GetHitSound(EnumTool tool) in VintagestoryApi\Common\Collectible\Block\BlockSounds.cs:line 92
+   at Vintagestory.API.Common.BlockSounds.GetHitSound(IPlayer byPlayer) in VintagestoryApi\Common\Collectible\Block\BlockSounds.cs:line 67
+   at Vintagestory.API.Common.Block.OnGettingBroken(IPlayer player, BlockSelection blockSel, ItemSlot itemslot, Single remainingResistance, Single dt, Int32 counter) in VintagestoryApi\Common\Collectible\Block\Block.cs:line 961
+   at Vintagestory.Client.NoObf.SystemMouseInWorldInteractions.ContinueBreakSurvival(BlockSelection blockSelection, Block block, Single dt) in VintagestoryLib\Client\Systems\Player\MouseInWorldInteractions.cs:line 807
+   at Vintagestory.Client.NoObf.SystemMouseInWorldInteractions.HandleMouseInteractionsBlockSelected(Single dt) in VintagestoryLib\Client\Systems\Player\MouseInWorldInteractions.cs:line 456
+   at Vintagestory.Client.NoObf.SystemMouseInWorldInteractions.OnFinalizeFrame(Single dt) in VintagestoryLib\Client\Systems\Player\MouseInWorldInteractions.cs:line 101
+   at Vintagestory.Client.NoObf.ClientEventManager.TriggerRenderStage(EnumRenderStage stage, Single dt) in VintagestoryLib\Client\Util\ClientEventManager.cs:line 185
+   at Vintagestory.Client.NoObf.ClientMain.TriggerRenderStage(EnumRenderStage stage, Single dt) in VintagestoryLib\Client\ClientMain.cs:line 796
+   at Vintagestory.Client.NoObf.ClientMain.RenderToDefaultFramebuffer(Single dt) in VintagestoryLib\Client\ClientMain.cs:line 989
+   at Vintagestory.Client.ScreenManager.Render(Single dt) in VintagestoryLib\Client\ScreenManager.cs:line 668
+   at Vintagestory.Client.ScreenManager.OnNewFrame(Single dt) in VintagestoryLib\Client\ScreenManager.cs:line 643
+   at Vintagestory.Client.NoObf.ClientPlatformWindows.window_RenderFrame(FrameEventArgs e) in VintagestoryLib\Client\ClientPlatform\GameWindow.cs:line 78
+   at OpenTK.Windowing.Desktop.GameWindow.Run()
+   at Vintagestory.Client.ClientProgram.Start(ClientProgramArgs args, String[] rawArgs) in VintagestoryLib\Client\ClientProgram.cs:line 322
+   at Vintagestory.Client.ClientProgram.<>c__DisplayClass9_0.<.ctor>b__1() in VintagestoryLib\Client\ClientProgram.cs:line 128
+   at Vintagestory.ClientNative.CrashReporter.Start(ThreadStart start) in VintagestoryLib\Client\ClientPlatform\ClientNative\CrashReporter.cs:line 93
+Game Version: v1.19.0-pre.5 (Unstable)
+13-Nov-23 16:12:46: Critical error occurred
+Loaded Mods: game@1.19.0-pre.5, creative@1.19.0-pre.5, survival@1.19.0-pre.5
+System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.ThrowHelper.ThrowNoMatchException()
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source, Func`2 predicate)
+   at Vintagestory.GameContent.MicroBlockSounds.get_block() in VSSurvivalMod\Systems\Microblock\BlockMicroBlock.cs:line 45
+   at Vintagestory.GameContent.MicroBlockSounds.get_ByTool() in VSSurvivalMod\Systems\Microblock\BlockMicroBlock.cs:line 24
+   at Vintagestory.API.Common.BlockSounds.GetHitSound(EnumTool tool) in VintagestoryApi\Common\Collectible\Block\BlockSounds.cs:line 92
+   at Vintagestory.API.Common.BlockSounds.GetHitSound(IPlayer byPlayer) in VintagestoryApi\Common\Collectible\Block\BlockSounds.cs:line 67
+   at Vintagestory.API.Common.Block.OnGettingBroken(IPlayer player, BlockSelection blockSel, ItemSlot itemslot, Single remainingResistance, Single dt, Int32 counter) in VintagestoryApi\Common\Collectible\Block\Block.cs:line 961
+   at Vintagestory.GameContent.BlockMicroBlock.OnGettingBroken(IPlayer player, BlockSelection blockSel, ItemSlot itemslot, Single remainingResistance, Single dt, Int32 counter) in VSSurvivalMod\Systems\Microblock\BlockMicroBlock.cs:line 467
+   at Vintagestory.Client.NoObf.SystemMouseInWorldInteractions.ContinueBreakSurvival(BlockSelection blockSelection, Block block, Single dt) in VintagestoryLib\Client\Systems\Player\MouseInWorldInteractions.cs:line 807
+   at Vintagestory.Client.NoObf.SystemMouseInWorldInteractions.HandleMouseInteractionsBlockSelected(Single dt) in VintagestoryLib\Client\Systems\Player\MouseInWorldInteractions.cs:line 456
+   at Vintagestory.Client.NoObf.SystemMouseInWorldInteractions.OnFinalizeFrame(Single dt) in VintagestoryLib\Client\Systems\Player\MouseInWorldInteractions.cs:line 101
+   at Vintagestory.Client.NoObf.ClientEventManager.TriggerRenderStage(EnumRenderStage stage, Single dt) in VintagestoryLib\Client\Util\ClientEventManager.cs:line 185
+   at Vintagestory.Client.NoObf.ClientMain.TriggerRenderStage(EnumRenderStage stage, Single dt) in VintagestoryLib\Client\ClientMain.cs:line 796
+   at Vintagestory.Client.NoObf.ClientMain.RenderToDefaultFramebuffer(Single dt) in VintagestoryLib\Client\ClientMain.cs:line 989
+   at Vintagestory.Client.ScreenManager.Render(Single dt) in VintagestoryLib\Client\ScreenManager.cs:line 668
+   at Vintagestory.Client.ScreenManager.OnNewFrame(Single dt) in VintagestoryLib\Client\ScreenManager.cs:line 643
+   at Vintagestory.Client.NoObf.ClientPlatformWindows.window_RenderFrame(FrameEventArgs e) in VintagestoryLib\Client\ClientPlatform\GameWindow.cs:line 78
+   at OpenTK.Windowing.Desktop.GameWindow.Run()
+   at Vintagestory.Client.ClientProgram.Start(ClientProgramArgs args, String[] rawArgs) in VintagestoryLib\Client\ClientProgram.cs:line 322
+   at Vintagestory.Client.ClientProgram.<>c__DisplayClass9_0.<.ctor>b__1() in VintagestoryLib\Client\ClientProgram.cs:line 128
+   at Vintagestory.ClientNative.CrashReporter.Start(ThreadStart start) in VintagestoryLib\Client\ClientPlatform\ClientNative\CrashReporter.cs:line 93
+Game Version: v1.19.0-pre.5 (Unstable)
+13-Nov-23 16:16:14: Critical error occurred
+Loaded Mods: game@1.19.0-pre.5, creative@1.19.0-pre.5, survival@1.19.0-pre.5
+System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.ThrowHelper.ThrowNoMatchException()
+   at Vintagestory.GameContent.MicroBlockSounds.get_block() in VSSurvivalMod\Systems\Microblock\BlockMicroBlock.cs:line 45
+   at Vintagestory.GameContent.MicroBlockSounds.get_ByTool() in VSSurvivalMod\Systems\Microblock\BlockMicroBlock.cs:line 24
+   at Vintagestory.API.Common.BlockSounds.GetHitSound(EnumTool tool) in VintagestoryApi\Common\Collectible\Block\BlockSounds.cs:line 92
+   at Vintagestory.API.Common.BlockSounds.GetHitSound(IPlayer byPlayer) in VintagestoryApi\Common\Collectible\Block\BlockSounds.cs:line 67
+   at Vintagestory.API.Common.Block.OnGettingBroken(IPlayer player, BlockSelection blockSel, ItemSlot itemslot, Single remainingResistance, Single dt, Int32 counter) in VintagestoryApi\Common\Collectible\Block\Block.cs:line 961
+   at Vintagestory.Client.NoObf.SystemMouseInWorldInteractions.ContinueBreakSurvival(BlockSelection blockSelection, Block block, Single dt) in VintagestoryLib\Client\Systems\Player\MouseInWorldInteractions.cs:line 807
+   at Vintagestory.Client.NoObf.SystemMouseInWorldInteractions.HandleMouseInteractionsBlockSelected(Single dt) in VintagestoryLib\Client\Systems\Player\MouseInWorldInteractions.cs:line 456
+   at Vintagestory.Client.NoObf.SystemMouseInWorldInteractions.OnFinalizeFrame(Single dt) in VintagestoryLib\Client\Systems\Player\MouseInWorldInteractions.cs:line 101
+   at Vintagestory.Client.NoObf.ClientEventManager.TriggerRenderStage(EnumRenderStage stage, Single dt) in VintagestoryLib\Client\Util\ClientEventManager.cs:line 185
+   at Vintagestory.Client.NoObf.ClientMain.TriggerRenderStage(EnumRenderStage stage, Single dt) in VintagestoryLib\Client\ClientMain.cs:line 796
+   at Vintagestory.Client.NoObf.ClientMain.RenderToDefaultFramebuffer(Single dt) in VintagestoryLib\Client\ClientMain.cs:line 989
+   at Vintagestory.Client.ScreenManager.Render(Single dt) in VintagestoryLib\Client\ScreenManager.cs:line 668
+   at Vintagestory.Client.ScreenManager.OnNewFrame(Single dt) in VintagestoryLib\Client\ScreenManager.cs:line 643
+   at Vintagestory.Client.NoObf.ClientPlatformWindows.window_RenderFrame(FrameEventArgs e) in VintagestoryLib\Client\ClientPlatform\GameWindow.cs:line 78
+   at OpenTK.Windowing.Desktop.GameWindow.Run()
+   at Vintagestory.Client.ClientProgram.Start(ClientProgramArgs args, String[] rawArgs) in VintagestoryLib\Client\ClientProgram.cs:line 322
+   at Vintagestory.Client.ClientProgram.<>c__DisplayClass9_0.<.ctor>b__1() in VintagestoryLib\Client\ClientProgram.cs:line 128
+   at Vintagestory.ClientNative.CrashReporter.Start(ThreadStart start) in VintagestoryLib\Client\ClientPlatform\ClientNative\CrashReporter.cs:line 93
